@@ -1,0 +1,68 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+
+
+2.
+Question:
+You are in line 102: What does the function canAssign() return?
+<br>activities=[[0,1440,0], [287, 288, 1]]</br>
+<br>lastCameronEndTime=0</br>
+<br>lastJamieEndTime=0</br>
+<br>currActivity=0</br>
+
+Answer: (0)
+0
+1
+2
+-1
+Don't know
+
+
+
+
+
+3.
+Question:
+You are in line 63.
+<br>schedule=["C", "J"]</br>
+<br>activities=[[0,1440,0], [287, 288, 1]]</br>
+<br>currActivity=2</br>
+<br>lastCameronEndTime=1440</br>
+<br>lastJamieEndTime=288</br>
+what does the function assignTask() return?
+
+
+Answer: (true)
+Don't know
+true
+false
+
+
+
+
+
+
+4.
+Question:
+You are in line 75.
+<br>schedule=[null, null, null]</br>
+<br>activities=[[0,1440,0], [45, 1440, 2], [825, 1440, 1]]</br>
+<br>currActivity=0</br>
+<br>lastCameronEndTime=0</br>
+<br>lastJamieEndTime=0</br>
+Which case will be used in 76-87?
+
+Answer: (case 1)
+Don't know
+case 0
+case 1
+default

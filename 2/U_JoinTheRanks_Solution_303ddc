@@ -1,0 +1,57 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+You are in line 78.
+<br>list=["2,7", "2,5", "1,4"]</br>
+What is printed by out.println()?
+
+Answer: (2)
+2 5 2 7 1 4
+1 4 2 5 2 7
+1 4 2 7 2 5
+Don't know
+
+
+3.
+Question:
+You are in line 32
+<br>rs=10</br>
+<br>r=2</br>
+<br>s=2</br>
+<br>cs=['\u0000',...,'\u0000']</br>
+What is the value of cs after the for-loop from line 32 to line 36?
+
+Answer:(2)
+[1,2,3,4,5,1,2,3,4,4]
+[1,2,3,4,5,1,2,3,4,5]
+[0,1,2,3,4,0,1,2,3,4]
+[1,2,3,4,5,6,7,8,9,0]
+Don't know
+
+
+
+4.
+Question:
+You are in line 73.
+<br>root = {prev: null, a: -1, b: -1, s: "1234512345"}</br>
+<br>last = {prev: prev1, a: 2, b: 7, s: "1122334455"}</br>
+<br>prev1 = {prev: prev2, a: 2, b: 5, s: "4511223345"}</br>
+<br>prev2 = {prev: root, a: 1, b: 4, s: "2345112345"}</br>
+What is the value of list after the for-loop?
+
+Answer: (1)
+["2,7", "2,5", "1,4"]
+["2,5", "1,4", "2,7"]
+["1,4", "2,7", "2,5"]
+["1,4", "2,5", "2,7"]
+Don't know

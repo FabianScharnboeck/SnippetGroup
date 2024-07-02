@@ -1,0 +1,62 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+
+
+2.
+Question:
+You are in line 16
+<br>t=100</br>
+<br>i=0</br>
+<br>n=32</br>
+<br>s=[7,3]</br>
+What is the console output of the current for-loop iteration
+
+Answer: (3)
+Case #0: <br>1 1</br> <br>2 2</br> <br>3 2</br> <br>4 2</br> <br>5 2</br> <br>6 2</br> <br>7 2</br> <br>8 2</br> <br>9 1</br> <br>10 1</br>
+Case #0: <br>1 1</br> <br>2 2</br> <br>3 2</br> <br>4 2</br> <br>5 2</br> <br>6 2</br> <br>7 2</br> <br>8 2</br> <br>9 1</br> <br>10 1</br>
+Case #1: <br>1 1</br> <br>2 2</br> <br>3 2</br> <br>4 2</br> <br>5 2</br> <br>6 2</br> <br>7 2</br> <br>8 2</br> <br>9 1</br> <br>10 1</br>
+Case #1: <br>10 1</br> <br>9 2</br> <br>8 2</br> <br>7 2</br> <br>6 2</br> <br>5 2</br> <br>4 2</br> <br>3 2</br> <br>2 1</br> <br>1 1</br>
+Don't know
+
+
+
+
+
+
+3.
+Question:
+You are in line 28
+<br>n=25</br>
+What is returned by the function?
+
+Answer: (6,3)
+[6,2]
+[6,4]
+[6,3]
+[5,3]
+Don't know
+
+
+
+
+4.
+Question:
+You are in line 28
+<br>n=3</br>
+What is returned by the function?
+
+Answer: (1,1)
+[0,1]
+[1,2]
+[1,1]
+[1,0]
+Don't know

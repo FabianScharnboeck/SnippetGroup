@@ -1,0 +1,63 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+You are in line 249.
+<br>r=1</br>
+<br>c=1</br>
+<br>m=0</br>
+<br>rs[r]=[false,false,...,false] (size = 60)</br>
+<br>cs[c] is identical to rs[r]</br>
+<br>sol=false</br>
+The program runs until line 259. What is the value of ans[r]?
+
+Answer: (2)
+ans[r] = [0,0,0,0,0...,0]
+ans[r] = [0,1,0,0,0...,0]
+ans[r] = [0,1,0,1,0...,0]
+ans[r] = [1,0,0,0,0...,0]
+Don't know
+
+
+
+3.
+Question:
+You are in line 230.
+<br>r=5</br>
+<br>c=6</br>
+<br>m=18</br>
+<br>ans=[[0,...,0],[0,1,2,3,4,5,0,...,0],[0,2,4,5,1,3,0,...,0],[0,3,5,4,2,1,0,...,0],[0,4,3,1,5,2,0,...,0],[0,5,1,2,3,4,0,...,0],...,[0,...,0]]</br>
+What is printed?
+
+Answer: (4)
+Case #1: POSSIBLE<br>1 2 3 4 4</br><br>2 4 5 1 3</br><br>3 5 4 2 1</br><br>4 3 1 5 2</br><br>5 1 2 3 4</br>
+Case #1: POSSIBLE<br>0 1 2 3 4</br><br>2 4 5 1 3</br><br>3 5 4 2 1</br><br>4 3 1 5 2</br><br>5 1 2 3 4</br>
+Case #1: POSSIBLE<br>1 2 3 4 5</br><br>2 4 5 1 3</br><br>5 4 2 1 0</br><br>4 3 1 5 2</br><br>5 1 2 3 4</br>
+Case #1: POSSIBLE<br>1 2 3 4 5</br><br>2 4 5 1 3</br><br>3 5 4 2 1</br><br>4 3 1 5 2</br><br>5 1 2 3 4</br>
+Don't know
+
+
+
+4.
+Question:
+You are in line 228.
+<br>n=5</br>
+<br>r=6</br>
+<br>c=1</br>
+<br>m=14</br>
+Which branch does the function take?
+
+Answer: (243)
+line 228
+line 243
+line 246
+Don't know

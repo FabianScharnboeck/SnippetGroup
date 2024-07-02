@@ -1,0 +1,59 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+2.
+Question:
+You are in line 33.
+<br>T=100</br>
+<br>i=1</br>
+<br>N=6</br>
+<br>c=1</br>
+<br>j=0</br>
+<br>mat=[[0,1,0],[0,1440,2],[1,2,3],[2,4,5],[3,4,4],[4,5,1]]</br>
+<br>ans=['C','','','','','']</br>
+What is the value of ans after the for loop in line 47?
+
+Answer: (4)
+ans=['C','C','C','C','C','C']
+ans=['C','C','J','J','C','J']
+ans=['C','C','J','C','C','J']
+ans=['C','C','J','C','C','C']
+Don't know
+
+
+3.
+Question:
+You are in line 33.
+<br>T=100</br>
+<br>i=2</br>
+<br>N=9</br>
+<br>c=1</br>
+<br>j=0</br>
+<br>mat=[[0,1,0],[0,720,4],[1,2,2],[720,1440,1],[720,721,3],[721,722,6], [722,723,6], [723,724,5], [724,725,7]]</br>
+<br>ans=['C','','','','','','','','']</br>
+What is the value of ans after the for loop in line 47?
+
+Answer: (1)
+ans=['C','C','C','J','J','J','J','J','J']
+ans=['C','C','C','J','J','J','J','J','C']
+ans=['C','C','C','J','J','J','J','C','C']
+ans=['C','C','C','J','J','J','C','C','C']
+
+
+
+4.
+Question:
+What happens when flag is set to 1 in line 35?
+
+Answer: (2)
+ans=[]
+ans=['C','C','C','C','C','C']
+"Case #" + i + ": IMPOSSIBLE"
+"Case #" + i + ": " + o
+Don't know
