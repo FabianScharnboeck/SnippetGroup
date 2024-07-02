@@ -10,14 +10,61 @@ No
 
 2.
 Question:
-Answer:
+You are in line 22.
+<br>T=12</br>
+<br>i=1</br>
+<br>R=5</br>
+<br>S=2</br>
+<br>N=10</br>
+<br>encore=4</br>
+<br>nombre=[0,0,0,0,0]</br>
+What is printed out in line 23?
+
+Answer: (4)
+Case #0: 3
+Case #0: 2
+Case #1: 2
+Case #1: 3
+Don't know
 
 
 3.
 Question:
-Answer:
+You are in line 22.
+<br>T=12</br>
+<br>i=1</br>
+<br>R=5</br>
+<br>S=2</br>
+<br>N=10</br>
+<br>encore=4</br>
+<br>k=0</br>
+<br>nombre=[0,0,0,0,0]</br>
+Now you go into the while-loop (line 25) for exactly ONLY one iteration. What is printed out in line 39
+
+Answer: (3)
+2 6
+4 2
+2 4
+6 4
+Don't know
 
 
 4.
 Question:
-Answer:
+You are in line 22.
+<br>T=12</br>
+<br>i=1</br>
+<br>R=5</br>
+<br>S=2</br>
+<br>N=10</br>
+<br>k=2</br>
+<br>encore=2</br>
+<br>nombre=[1,1,0,0,0]</br>
+Now you go into the while-loop (line 25) for exactly ONLY one iteration. What is printed out in line 39
+
+Answer: (1)
+2 6
+4 2
+2 4
+6 4
+Don't know

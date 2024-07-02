@@ -9,14 +9,46 @@ No
 
 2.
 Question:
-Answer:
+You are in line 42.
+<br>t=100</br>
+<br>tc=1</br>
+<br>n=6</br>
+<br>c=1440</br>
+<br>j=0</br>
+<br>m=[[0,1440,2,1],[0,1,0,0],[1,2,3,0],[2,3,5,0],[3,4,4,0],[4,5,1,0]]</br>
+<br>flag=true</br>
+What is the value of j after the first loop iteration?
+Answer: (1)
+0
+1
+2
+3
+Don't know
 
 
 3.
 Question:
-Answer:
+You are in line 76.
+<br>n=6</br>
+<br>m=[[0,1,0,2],[4,5,1,2],[0,1440,2,1],[1,2,3,2],[3,4,4,2],[2,3,5,2]]</br>
+What is the value of s after the loop from line 76 - 82 is done?
+Answer: (1)
+JJCJJJ
+JCJCCC
+CCJCCC
+JCJCJC
+Don't know
 
 
 4.
 Question:
-Answer:
+<br>n=3</br>
+<br>m=[[0,480,0,1], [959,1440,1,1], [479,960,2,2]]</br>
+What is the value of s after the loop from line 76 - 82 is done?
+
+Answer: (4)
+JJC
+JCJ
+CJJ
+CCJ
+Don't know
