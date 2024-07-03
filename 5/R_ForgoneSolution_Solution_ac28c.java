@@ -1,8 +1,7 @@
-import java.util.HashSet;
 import java.util.Scanner;
 
 
-public class Solution_ac28c {
+public class R_ForgoneSolution_Solution_ac28c {
 
 	static int digits(int n, boolean up){
 		int k = 0;

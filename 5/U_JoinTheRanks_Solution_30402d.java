@@ -12,7 +12,7 @@ import java.util.ArrayDeque;
  * Built using CHelper plug-in
  * Actual solution is at the top
  */
-public class Solution_30402d {
+public class U_JoinTheRanks_Solution_30402d {
     public static void main(String[] args) {
         InputStream inputStream = System.in;
         OutputStream outputStream = System.out;

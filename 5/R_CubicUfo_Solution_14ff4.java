@@ -1,12 +1,10 @@
-package gcj2018.qualification.cubic_ufo;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Locale;
 import java.util.Scanner;
 
 
-public class Solution_14ff4 {
+public class R_CubicUfo_Solution_14ff4 {
 	
 	public static void main(String[] args) {
 		solve();

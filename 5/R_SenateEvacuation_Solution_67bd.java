@@ -1,9 +1,7 @@
-package gcj2018.practise_session.senate_evacuation;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
-public class Solution_67bd {
+public class R_SenateEvacuation_Solution_67bd {
   public static void main(String[] args) {
     Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
     int t = in.nextInt();  // Scanner has functions to read ints, longs, strings, chars, etc.

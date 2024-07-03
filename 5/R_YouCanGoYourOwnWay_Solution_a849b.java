@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Solution_a849b {
+public class R_YouCanGoYourOwnWay_Solution_a849b {
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         int t = in.nextInt();

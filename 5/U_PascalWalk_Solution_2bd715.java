@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution_2bd715 {
+public class U_PascalWalk_Solution_2bd715 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

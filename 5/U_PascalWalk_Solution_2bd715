@@ -10,17 +10,48 @@ No
 
 2.
 Question:
-Answer:
+You are in line 11.
+What is the value of pascal after line 20?
+Answer: (1)
+[[1,0,0,0...0], [1,1,0,0...,0], [1,2,1,0,...,0], ...]
+[[1,1,0,0...0], [1,1,1,0...,0], [1,2,1,0,...,0], ...]
+[[1,0,1,0...0], [1,1,0,1...,0], [1,2,1,0,...,0], ...]
+[[1,0,0,1...0], [1,1,0,0...,0], [1,1,1,0,...,0], ...]
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 38
+<br>t=1</br>
+<br>n=32</br>
+<br>sum=0</br>
+<br>dir=true</br>
+<br>rowsRequired=0</br>
+What is the printed result of the for-loop between line 38 and 52?
+
+Answer: (3)
+Case #1: <br>1 1</br><br>3 2</br><br>2 1</br><br>3 1</br><br>3 2</br><br>3 3</br><br>4 4</br><br>4 3</br><br>4 2</br><br>4 1</br>
+Case #1: <br>1 0</br><br>2 2</br><br>2 1</br><br>3 1</br><br>3 2</br><br>3 3</br><br>4 4</br><br>4 3</br><br>4 2</br><br>4 1</br>
+Case #1: <br>1 1</br><br>2 2</br><br>2 1</br><br>3 1</br><br>3 2</br><br>3 3</br><br>4 4</br><br>4 3</br><br>4 2</br><br>4 1</br>
+Case #1: <br>0 1</br><br>2 2</br><br>2 1</br><br>3 1</br><br>3 2</br><br>3 3</br><br>4 4</br><br>4 3</br><br>4 2</br><br>4 1</br>
+
 
 
 
 4.
 Question:
-Answer:
+You ar in line 66
+<br>sum=31</br>
+<br>curR=6</br>
+<br>curC=6</br>
+<br>n=32</br>
+What is printed out in this while-loop?
+
+Answer: (1) 6 6
+6 6
+7 7
+7 6
+Don't know

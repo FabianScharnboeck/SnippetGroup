@@ -10,17 +10,56 @@ No
 
 2.
 Question:
-Answer:
+You are in line 125.
+<br>N=5</br>
+<br>matrix=[[5,4,3,2,1],[4,3,5,1,2],[3,2,1,5,4],[1,5,2,4,3],[2,1,4,3,5]]</br>
+What is printed out by the following for-loop?
+
+Answer: (1)
+Case #1: POSSIBLE <br>5 4 3 2 1</br><br>4 3 5 1 2</br><br>3 2 1 5 4</br><br>1 5 2 4 3</br><br>2 1 4 3 5</br>
+Case #1: POSSIBLE <br>5 4 3 2 1</br><br>4 3 5 1 2</br><br>3 2 1 5 4</br><br>1 5 2 4 3</br>
+Case #1: POSSIBLE <br>4 3 2 1 0</br><br>4 3 5 1 2</br><br>3 2 1 5 4</br><br>1 5 2 4 3</br><br>2 1 4 3 5</br>
+Case #1: POSSIBLE <br>5 4 3 2 1</br><br>4 3 5 1 2</br><br>3 2 1 5 4</br><br>1 5 1 4 3</br><br>2 1 4 3 5</br>
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 98.
+<br>r=1</br>
+<br>c=1</br>
+<br>rows=[6,6]</br>
+<br>cols=[6,6]</br>
+<br>sum=2</br>
+<br>i=1</br>
+<br>f=2</br>
+What is the value of rows after line 102?
+
+Answer: (3) [6,4]
+[6,0]
+[4,6]
+[6,4]
+[4,4]
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 98.
+<br>r=1</br>
+<br>c=0</br>
+<br>rows=[6,4]</br>
+<br>cols=[6,4]</br>
+<br>sum=1</br>
+<br>i=2</br>
+<br>f=4</br>
+What is the value of rows after line 102?
+
+Answer: (1) [6,0]
+[6,0]
+[4,6]
+[6,4]
+[4,4]
+Don't know

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Solution_28c996
+class U_Indicium_Solution_28c996
 {
     static int[][] matrix;
     static long[] rows;

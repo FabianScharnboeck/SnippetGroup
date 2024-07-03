@@ -10,17 +10,45 @@ No
 
 2.
 Question:
-Answer:
+You are in line 35.
+<br>start.v=[0,0,0,0,0,0,0,0,0,0]</br>
+<br>r=5</br>
+<br>s=2</br>
+What is the value of start.v in line 40?
+
+Answer: (2)
+[0,1,2,3,0,1,2,3,0,1]
+[0,1,2,3,4,0,1,2,3,4]
+[1,2,3,4,5,1,2,3,4,5]
+[4,3,2,1,0,4,3,2,1,0]
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 94.
+<br>v=[2,3,4,0,0,1,1,2,3,4]</br>
+<br>a=0</br>
+<br>b=3</br>
+What is the value of r.v in line 107?
 
+Answer: (1)
+[2,3,4,0,0,1,1,2,3,4]
+[1,1,2,3,4,2,3,4,0,0]
+[3,4,5,0,0,1,1,2,3,4]
+[2,3,4,0,0,0,1,2,3,4]
+Don't know
 
 
 4.
 Question:
-Answer:
+You are in line 118.
+<br>v=[3,4,2,0,0,1,1,2,3,4]</br>
+What does good() return?
+
+Answer: (false)
+true
+false
+Don't know

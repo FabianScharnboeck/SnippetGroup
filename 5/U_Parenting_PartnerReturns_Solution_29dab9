@@ -10,17 +10,46 @@ No
 
 2.
 Question:
-Answer:
+You are in line 18
+<br>ex=[[0,1,0],[4,5,1],[0,1440,2],[1,2,3],[3,4,4],[2,3,5]]</br>
+<br>numShifts=6</br>
+What is the value of order in line 23?
+
+Answer: (2)
+[0,0,1,2,3,4]
+[0,2,3,5,4,1]
+[1,1440,2,3,4,5]
+[0,1440,2,3,4,5]
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 30.
+<br>ex=[[0,480,0],[479,960,2],[0,1440,2]]</br>
+<br>result=""</br>
+What does solve() return?
+
+Answer: CJC (3)
+CCC
+JJJ
+CJC
+JCJ
+
 
 
 
 4.
 Question:
-Answer:
+You are in line 30.
+<br>ex=[[0,720,0],[719,1440,1]]</br>
+<br>result=""</br>
+What does solve() return?
+
+Answer: CJ (2)
+JJ
+CJ
+JC
+CC
