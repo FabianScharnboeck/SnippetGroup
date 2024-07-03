@@ -1,5 +1,5 @@
 import java.io.*;
-class Solution_2867f4
+class U_Indicium_Solution_2867f4
 {
     static int squares[][] = new int[60][60],n,k,t;
     static boolean rows[][] = new boolean[60][60];

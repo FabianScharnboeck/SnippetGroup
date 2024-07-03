@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Solution_301119 {
+public class U_JoinTheRanks_Solution_301119 {
     public static void main(String[] args) {
 
         HashMap<String, String> a = new HashMap<>();

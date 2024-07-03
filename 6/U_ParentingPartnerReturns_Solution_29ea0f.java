@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author bytz
  */
-public class Solution_29ea0f {
+public class U_ParentingPartnerReturns_Solution_29ea0f {
 
 	/**
 	 * @param args the command line arguments

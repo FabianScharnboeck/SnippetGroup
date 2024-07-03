@@ -54,15 +54,17 @@ false
 4.
 Question:
 You are in line 75.
-<br>schedule=[null, null, null]</br>
-<br>activities=[[0,1440,0], [45, 1440, 2], [825, 1440, 1]]</br>
+<br>schedule=[null, null, null, null, null, null]</br>
 <br>currActivity=0</br>
 <br>lastCameronEndTime=0</br>
 <br>lastJamieEndTime=0</br>
-Which case will be used in 76-87?
+<br>activity=[0,1,0]</br>
+<br>canAssignActivity=0</br>
+Which value will schedule be assigned?
 
-Answer: (case 1)
+Answer: (2)
 Don't know
-case 0
-case 1
-default
+['C', null, null, null, null, null]
+[null, 'C', null, null, null, null]
+['J', null, null, null, null, null]
+[null, 'J', null, null, null, null]

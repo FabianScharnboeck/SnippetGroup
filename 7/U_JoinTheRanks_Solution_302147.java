@@ -15,7 +15,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class Solution_302147 {
+public class U_JoinTheRanks_Solution_302147 {
     public static void main(String[] args) throws IOException {
         JavaSolution.main(args);
     }

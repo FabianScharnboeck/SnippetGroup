@@ -1,6 +1,5 @@
-import java.io.*;
 import java.util.*;
-class Solution_2c1d14 {
+class U_PascalWalk_Solution_2c1d14 {
 	public static void main (String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int test=sc.nextInt();

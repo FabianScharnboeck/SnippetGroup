@@ -10,17 +10,58 @@ No
 
 2.
 Question:
-Answer:
+You are in line 12
+<br>test=100</br>
+<br>i=1</br>
+<br>n=32</br>
+<br>sum1=1</br>
+<br>temp=1</br>
+<br>r1=1</br>
+<br>c=2</br>
+How many times does the while-loop in line 12-18 iterate?
 
+Answer:
+5
+6
+7
+0
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 20
+<br>sum1=29</br>
+<br>n=32</br>
+<br>r1=8</br>
+<br>c=1</br>
+What is printed out in the while-loop from 20-26?
+Answer: (2)
+8 1<br>9 1</br>
+8 1<br>9 1</br><br>10 1</br>
+8 1<br>9 1</br><br>10 1</br><br>11 1</br>
+8 1<br>9 1</br><br>10 1</br><br>11 1</br><br>12 1</br>
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 12
+<br>test=100</br>
+<br>i=7</br>
+<br>n=3</br>
+<br>sum1=1</br>
+<br>temp=1</br>
+<br>r1=1</br>
+<br>c=2</br>
+What is printed out by the while-loop in line 12-18?
+
+Answer: (4) 2 2
+1 1
+1 1 <br>2 2</br>
+1 1 <br>3 3</br>
+2 2
+0 1
+Don't know

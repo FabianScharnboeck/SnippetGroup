@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Solution_273d64 {
+class U_Indicium_Solution_273d64 {
 
     public static boolean isValid(int[][] arr, int r, int c, int cho) {
         for(int j = c - 1 ; j >= 0; j--) {

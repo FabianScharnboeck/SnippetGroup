@@ -10,17 +10,44 @@ No
 
 2.
 Question:
-Answer:
+You are in line 47.
+<br>intervalsSorted=[{start:0, end:480, who:0},{start:479, end:960, who:0},{start:959, end:1440, who:0}]</br>
+<br>whosEnd=[0,0]</br>
+What is the value of whosEnd after line 57?
+Answer: (1)
+[1440,960]
+[480, 1440]
+[480, 960]
+[1440, 480]
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 58.
+<br>intervalsSorted=[{start:0, end:480, who:0},{start:479, end:960, who:0},{start:959, end:1440, who:0}]</br>
+<br>impossible=false</br>
+what is written by the writer?
 
+Answer: (2)
+Case #3: CCC
+Case #3: CCJ
+Case #3: JJJ
+Case #3: JJC
+Don't know
 
 
 4.
 Question:
-Answer:
+You are in line 36.
+<br>intervalsSorted=[{start:0, end:480, who:0},{start:960, end:961, who:0},{start: 480, end:960, who:0},{start:960, end:1440, who:0}]</br>
+What is the value of intervalsSorted after line 36-44?
+
+Answer: (4)
+[{start:480, end:0, who:0},{start:480, end:960, who:0},{start:960, end:961, who:0},{start:960, end:1440, who:0}]
+[{start:0, end:480, who:0},{start:960, end:961, who:0},{start: 480, end:960, who:0},{start:960, end:1440, who:0}
+[{start:480, end:0, who:0},{start:960, end:961, who:0},{start: 480, end:960, who:0},{start:960, end:1440, who:0}
+[{start:0, end:480, who:0},{start:480, end:960, who:0},{start:960, end:961, who:0},{start:960, end:1440, who:0}]
+Don't know

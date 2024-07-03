@@ -1,5 +1,3 @@
-package gcj2020.qualification.parenting_partner_returns;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -8,7 +6,7 @@ import java.util.StringTokenizer;
 import static java.lang.Integer.parseInt;
 import static java.nio.charset.StandardCharsets.UTF_8;
 
-public class Solution_219262 {
+public class U_ParentingPartnerReturns_Solution_219262 {
 
     public static void main(String[] args) {
         try (BufferedReader in = new BufferedReader(new InputStreamReader(System.in, UTF_8), 1 << 15);

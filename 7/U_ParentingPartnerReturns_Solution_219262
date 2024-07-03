@@ -10,17 +10,48 @@ No
 
 2.
 Question:
-Answer:
+You are in line 34.
+<br>points=[{time:0, status:0, realPos:0, parent:null, c:''},{time:719, status:0, realPos:2, parent:null, c:''},{time:720, status:1, realPos:1, parent:{time:0, status:0, realPos:0, parent:null, c:''}, c:''},{time:1440, status:1, realPos:3, parent:{time:719, status:0, realPos:2, parent:null, c=''}, c:''}]</br>
+<br>cu=false/br>
+<br>ju=false</br>
+<br>failed=false/br>
+what value is assigned to point.c (only the first point in the points-array)?
+
+Answer: C (2)
+J
+C
+Nothing
+Don't know
+
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 34.
+<br>points=[{time:0, status:0, realPos:0, parent:null, c:''},{time:719, status:0, realPos:2, parent:null, c:''},{time:720, status:1, realPos:1, parent:{time:0, status:0, realPos:0, parent:null, c:''}, c:''},{time:1440, status:1, realPos:3, parent:{time:719, status:0, realPos:2, parent:null, c=''}, c:''}]</br>
+<br>cu=false/br>
+<br>ju=false</br>
+<br>failed=false/br>
+what value is assigned to point.c (the 2nd point in the points-array)?
+
+Answer: J (1)
+J
+C
+Nothing
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 58.
+<br>[{time:0, status:0, realPos:0, parent:null, c:'C'},{time:720, status:1, realPos:1, parent:{time:0, status:0, realPos:0, parent:null, c:'C'}, c:''},{time:719, status:0, realPos:2, parent:null, c:'J'},{time:1440, status:1, realPos:3, parent:{time:719, status:0, realPos:2, parent:null, c='J'}, c:''}]</br>
+What is printed out in in the console in line 63-64?
+
+Answer: (2) CJ
+Case #5: JJ
+Case #5: CJ
+Case #5: CC
+Case #5: JC

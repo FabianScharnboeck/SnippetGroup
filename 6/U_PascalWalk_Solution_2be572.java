@@ -1,11 +1,6 @@
-
-import java.io.File;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-public class Solution_2be572 {
+public class U_PascalWalk_Solution_2be572 {
 
     public static void down(int n) {
         int x = 1;

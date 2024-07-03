@@ -10,17 +10,44 @@ No
 
 2.
 Question:
-Answer:
+You are in line 6.
+<br>n=32</br>
+What is printed by down()?
 
-
+Answer: (3)
+<br>0 1</br><br>1 1</br><br>2 1</br><br>...</br><br>32 1</br>
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>33 1</br>
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>32 1</br>
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>31 1</br>
+Don't know
 
 
 3.
 Question:
-Answer:
+You are in line 6.
+<br>n=10</br>
+What is printed by down()?
+
+Answer: (1)
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>10 1</br>
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>10 1</br>
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>9 1</br>
+<br>1 1</br><br>2 1</br><br>3 1</br><br>...</br><br>11 1</br>
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 32.
+<br>N=501</br>
+<br>i=20</br>
+<br>cases=100</br>
+Which branch is taken and what is the value of e?
+
+Answer: (36-40) (2)
+line 32-35, e=500
+line 36-40, e=501
+line 36-40, e=500
+line 32-35, e=501
+Don't know
