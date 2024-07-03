@@ -44,6 +44,7 @@ Don't know
 Question:
 You are in line 16.
 What is the result of the first 3 iterations of the loop?
+
 Answer: (2)
 pascal=[[0],[0,0],[0,1,0]]
 pascal=[[1],[1,1],[1,2,1]]
