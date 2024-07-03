@@ -1,0 +1,49 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+you are in line 64:
+<br>locs=[{r:0,k:0},{r:1,k:0},{r:2,k:0},{r:3,k:1},{r:4,k:2},{r:5,k:2},{r:5,k:3}]</br>
+What is returned by the function listToString()?
+Answer: (3)
+<br>1 1</br><br>2 1</br><br>3 1</br><br>4 2</br><br>5 3</br><br>6 3</br><br>6 4</br>
+<br>0 1</br><br>1 1</br><br>2 1</br><br>3 2</br><br>4 3</br><br>5 3</br><br>6 4</br>
+Don't know
+
+
+
+
+3.
+Question:
+You are in line 52
+<br>depth=32</br>
+What is the value of pascal after line 56?
+
+Answer: (2)
+[[0,0,0,0,...,0],[1,0,0,0,...,0],[0,1,0,0,...,0],...,[1,0,0,0,...,1]]
+[[1,0,0,0,...,0],[1,1,0,0,...,0],[1,0,1,0,...,0],...,[1,0,0,0,...,1]]
+[[1,0,1,0,...,0],[1,0,1,0,...,0],[1,0,1,0,...,0],...,[1,0,1,0,...,1]]
+[[1,0,0,0,...,1],[1,1,0,0,...,1],[1,0,1,0,...,1],...,[1,0,0,0,...,1]]
+Don't know
+
+
+
+4.
+Question:
+You are in line 87:
+<br>r=0</br>
+<br>k=-1</br>
+What is returned by maybeAddState()?
+
+Answer: (1)
+null
+{total:1, currR:0, currK:0, steps:null}
+Don't know

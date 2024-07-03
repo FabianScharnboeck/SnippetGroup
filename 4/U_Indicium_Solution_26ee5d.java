@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Solution_26ee5d {
+public class U_Indicium_Solution_26ee5d {
 
     static Scanner scanner = new Scanner(System.in);
 

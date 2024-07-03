@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Solution_2bbcfe {
+public class U_PascalWalk_Solution_2bbcfe {
 
 	private static void test() throws IOException {
 		String s;

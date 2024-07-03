@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution_a9dbe {
+public class R_YouCanGoYourOwnWay_Solution_a9dbe {
 
     public static void solve() throws Exception {
 	int T = nextInt();

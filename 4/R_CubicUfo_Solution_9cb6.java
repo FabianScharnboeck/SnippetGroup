@@ -1,5 +1,3 @@
-package gcj2018.qualification.cubic_ufo;
-
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -7,7 +5,7 @@ import java.io.PrintWriter;
 
 import static java.lang.Math.*;
 
-public class Solution_9cb6 {
+public class R_CubicUfo_Solution_9cb6 {
 	static final StdIn in = new StdIn();
 	static final PrintWriter out = new PrintWriter(System.out);
 	

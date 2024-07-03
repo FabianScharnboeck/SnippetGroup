@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution_3028bb {
+public class U_JoinTheRanks_Solution_3028bb {
 public static void main(String[] args)
 {
 	Scanner input = new Scanner(System.in);

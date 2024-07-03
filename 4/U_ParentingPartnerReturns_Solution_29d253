@@ -1,0 +1,55 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 22.
+<br>activities=[{start:0 ,end:1 ,index: ,assignee='\u0000'},{start:4 ,end:5 ,index:1 ,assignee='\u0000'},{start:0 ,end:1440 ,index:2 ,assignee='\u0000'},{start:1 ,end:2 ,index:3 ,assignee='\u0000'},{start:3 ,end:4 ,index:4 ,assignee='\u0000'},{start:2 ,end:3 ,index:5 ,assignee='\u0000'}]</br>
+What is the result from Arrays.sort(activities)?
+
+Answer: (2)
+[{start:0 ,end:1 ,index:0 ,assignee='\u0000'},{start:0 ,end:1440 ,index:2 ,assignee='\u0000'},{start:4 ,end:5 ,index:1 ,assignee='\u0000'},{start:1 ,end:2 ,index:3 ,assignee='\u0000'},{start:3 ,end:4 ,index:4 ,assignee='\u0000'},{start:2 ,end:3 ,index:5 ,assignee='\u0000'}]
+[{start:0 ,end:1 ,index:0 ,assignee='\u0000'},{start:0 ,end:1440 ,index:2 ,assignee='\u0000'},{start:1 ,end:2 ,index:3 ,assignee='\u0000'},{start:2 ,end:3 ,index:5 ,assignee='\u0000'},{start:3 ,end:4 ,index:4 ,assignee='\u0000'},{start:4 ,end:5 ,index:1 ,assignee='\u0000'}]
+[{start:0 ,end:1 ,index:0 ,assignee='\u0000'},{start:0 ,end:5 ,index:1 ,assignee='\u0000'},{start:1 ,end:1440 ,index:2 ,assignee='\u0000'},{start:2 ,end:2 ,index:3 ,assignee='\u0000'},{start:3 ,end:4 ,index:4 ,assignee='\u0000'},{start:4 ,end:3 ,index:5 ,assignee='\u0000'}]
+[{start:4 ,end:1 ,index:0 ,assignee='\u0000'},{start:4 ,end:5 ,index:1 ,assignee='\u0000'},{start:0 ,end:1440 ,index:2 ,assignee='\u0000'},{start:1 ,end:2 ,index:3 ,assignee='\u0000'},{start:3 ,end:4 ,index:4 ,assignee='\u0000'},{start:2 ,end:3 ,index:5 ,assignee='\u0000'}]
+Don't know
+
+
+
+
+3.
+Question:
+You are in line 30:
+<br>activities=[{start:0 ,end:1 ,index:0 ,assignee='\u0000'},{start:0 ,end:1440 ,index:2 ,assignee='\u0000'},{start:1 ,end:2 ,index:3 ,assignee='\u0000'},{start:2 ,end:3 ,index:5 ,assignee='\u0000'},{start:3 ,end:4 ,index:4 ,assignee='\u0000'},{start:4 ,end:5 ,index:1 ,assignee='\u0000'}]</br>
+<br>i=0</br>
+<br>names=['C','J']</br>
+What is the value of a.assignee after one loop iteration?
+
+Answer: (C)
+null
+C
+J
+Don't know
+
+
+
+4.
+Question:
+You are in line 32:
+<br>assignment[0]={start:0, end:1, index:0, assignee:'C'}</br>
+<br>names=['C','J']</br>
+<br>a={start:0, end:1440, index:2, assignee:'\u0000'}</br>
+What is the value of a.assignee after the loop from line 29 to 44 has iterated once?
+
+Answer: (J)
+C
+J
+ArrayIndexOutOfBoundsException is thrown
+Don't know

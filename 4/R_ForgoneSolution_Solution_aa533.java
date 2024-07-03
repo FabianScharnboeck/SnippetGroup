@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution_aa533
+public class R_ForgoneSolution_Solution_aa533
 {
 public static void main(String gg[])
 {
