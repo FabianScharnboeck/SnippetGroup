@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Solution_2c4a80 {
+public class U_PascalWalk_Solution_2c4a80 {
     public static class Point {
         int r;
         int k;

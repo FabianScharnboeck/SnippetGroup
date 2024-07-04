@@ -10,17 +10,46 @@ No
 
 2.
 Question:
-Answer:
+You are in line 43.
+<br>orderedActivities=[{s:0, e:720, user:null},{s:719, e:1440, user:null}]</br>
+<br>C=null</br>
+<br>J=null</br>
+What are the values of orderedActivities[0].user and orderedActivities[1].user after line 53?
+
+Answer: (4) CJ
+JC
+CC
+JJ
+CJ
+Nothing, because "IMPOSSIBLE" is returned
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 55.
+<br>orderedActivities=[{s:0, e:1440, user:"C"},{s:287, e:288, user:'J'}]</br>
+What is result.toString() in line 59?
 
+Answer: (3) CJ
+JC
+CC
+CJ
+JJ
 
 
 4.
 Question:
-Answer:
+You are in line 43.
+<br>orderedActivities=[{s:94, e:1440, user:null},{s:317, e:1440, user:null},{s:510, e:1440, user:null},{s:1324, e:1440, user:null}]</br>
+What is the result of the for-loop until it is finished?
+
+Answer: (3) IMPOSSIBLE
+CJCJ
+JCJC
+"IMPOSSIBLE" is returned
+JJCC
+CCJJ
+Don't know

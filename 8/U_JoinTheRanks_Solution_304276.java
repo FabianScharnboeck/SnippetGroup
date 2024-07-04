@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.*;
 import java.util.function.Function;
 
-public class Solution_304276 {
+public class U_JoinTheRanks_Solution_304276 {
 
     private static List<Integer> transform(List<Integer> now, int a, int b) {
         List<Integer> result = new ArrayList<>();

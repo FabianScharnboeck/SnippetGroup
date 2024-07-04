@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Solution_2966b1 {
+public class U_Indicium_Solution_2966b1 {
     private static Random random = new Random();
 
     public static void main(String[] args) {

@@ -10,17 +10,42 @@ No
 
 2.
 Question:
-Answer:
+What kind of matrix does the method pascal() in line 41-51 return?
+
+Answer: (2)
+[[1,0,0,0,0,...,0],[0,1,0,0,0,...,0],[0,0,1,0,0,...,0],[0,0,0,1,0,...],...]
+[[1,0,0,0,0,...,0],[1,1,0,0,0,...,0],[1,2,1,0,0,...,0],[1,3,3,1,0,...],...]
+[[1,0,0,0,0,...,0],[1,1,0,0,0,...,0],[1,2,1,0,0,...,0],[1,3,3,1,0,...],...]
+[[1,0,0,0,0,...,0],[1,1,0,0,0,...,0],[1,1,1,0,0,...,0],[1,1,1,1,0,...],...]
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 53.
+<br>The value of p=Point{r=0, k=0}</br>
+<br>(Please refer to a Point{r=0, , k=0} as [0,0] from here on)</br>
+What is returned by adjacent?
+
+Answer: (3) [1,0][1,1]
+[[0,1],[1,0]]
+[[0,1],[1,1]]
+[[1,0],[1,1]]
+[[0,1],[0,1]]
+[[1,0],[0,1]]
+Dont know
 
 
 
 4.
 Question:
-Answer:
+You are in line 20.
+<br>this=Point{r=1,k=0}</br>
+<br>o=Point{r=0,k=0}</br>
+What is returned by equals()?
+
+Answer:(1) false
+false
+true
+Don't know

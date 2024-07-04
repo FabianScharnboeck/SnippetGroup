@@ -1,10 +1,8 @@
-package gcj2020.qualification.parenting_partner_returns;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Solution_265374 {
+public class U_ParentingPartnerReturns_Solution_265374 {
 
   public static void main(String[] args) {
 
