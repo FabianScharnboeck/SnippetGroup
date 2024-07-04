@@ -10,17 +10,52 @@ No
 
 2.
 Question:
-Answer:
+You are in line 23.
+<br>ls=[Pair[v1=0, v2=1], Pair[v1=4, v2=5], Pair[v1=0, v2=1440], Pair[v1=1, v2=2], Pair[v1=3, v2=4], Pair[v1=2, v2=3]]</br>
+What is the result of Collections.sort(ls)?
 
+Answer: (2)
+[Pair[v1=0, v2=1], Pair[v1=4, v2=5], Pair[v1=0, v2=1440], Pair[v1=1, v2=2], Pair[v1=3, v2=4], Pair[v1=2, v2=3]]
+[Pair[v1=0, v2=1], Pair[v1=0, v2=1440], Pair[v1=1, v2=2], Pair[v1=2, v2=3], Pair[v1=3, v2=4], Pair[v1=4, v2=5]]
+[Pair[v1=0, v2=1], Pair[v1=0, v2=1440], Pair[v1=0, v2=1440], Pair[v1=1, v2=2], Pair[v1=2, v2=3], Pair[v1=3, v2=4]
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 33.
+<br>ls=[Pair[v1=0, v2=480], Pair[v1=479, v2=960], Pair[v1=959, v2=1440]]</br>
+<br>for every Pair p in ls, p.letter=""</br>
+<br>fin=0</br>
+<br>init=0</br>
+<br>x=0</br>
+<br>guy="C"</br>
+<br>nextInit=0</br>
+<br>nextFin=480</br>
+<br>imposible=false</br>
+What are the values of p.letter for every p in ls after line 59?
+
+Answer: (3) CJC
+JCJ
+CCJ
+CJC
+JJC
+CCC
+JJJ
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 65.
+<br>ls=[Pair [v1=0, v2=720, letter="C"], Pair [v1=720, v2=1440, letter="C"]]</br>
+What is printed in line 71?
+
+Answer: (1) CC
+CC
+JJ
+CJ
+JC
+Don't know

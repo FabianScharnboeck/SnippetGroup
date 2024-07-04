@@ -10,17 +10,47 @@ No
 
 2.
 Question:
-Answer:
+You are in line 36.
+Path is an empty list. r=0 and left=true.
+What is the value of the variable path at the end of appendRow()?
+
+Answer: (1) [1,1]
+[0,0]
+[1,1]
+[1,2]
+[0,1]
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 23
+<br>N=8</br>
+<br>P2.length=31</br>
+<br>left=true</br>
+What is the value of path in line 30.
+
+Answer: (3)
+[[32,1],[33,1],...,[40,1]]
+[[31,1],[33,1],...,[40,1]]
+[[32,1],[33,1],...,[39,1]]
+[[31,1],[33,1],...,[39,1]]
+Don't know
 
 
 
 4.
 Question:
-Answer:
+Yoiu are in line 31.
+<br>path=[[1,1].[2,2],[2,1],[3,1],...]</br>
+What is the result of sb.toString()?
+
+Answer: (1)
+1 1 <br>2 2</br> <br>2 1</br> <br>3 1</br>
+1 1 2 2 2 1 3 1
+1 1 <br>2 2</br> <br>1 2</br> <br>1 3</br>
+1 1 2 2 1 2 1 3
+Don't know
+

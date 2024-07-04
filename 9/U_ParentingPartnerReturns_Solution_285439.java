@@ -1,8 +1,6 @@
-package gcj2020.qualification.parenting_partner_returns;
-
 import java.util.*;
  
-public class Solution_285439 {
+public class U_ParentingPartnerReturns_Solution_285439 {
  
     public static void main(String[] args) {
  

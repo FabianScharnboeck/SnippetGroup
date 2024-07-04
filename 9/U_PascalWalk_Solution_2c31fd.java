@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Solution_2c31fd {
+public class U_PascalWalk_Solution_2c31fd {
 
 	private static long[] P2 = new long[31];
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution_305629 {
+public class U_JoinTheRanks_Solution_305629 {
   public static void main(String[] args) {
     final Scanner scanner = new Scanner(System.in);
     final int T = scanner.nextInt();
