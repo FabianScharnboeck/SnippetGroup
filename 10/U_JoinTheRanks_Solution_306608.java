@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.io.InputStream;
 
 
-public class Solution_306608 {
+public class U_JoinTheRanks_Solution_306608 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

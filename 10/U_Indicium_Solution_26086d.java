@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution_26086d
+class U_Indicium_Solution_26086d
 {
 static int k=0,n=0;
     public static boolean issafe(int a[][],int i,int j,int num)

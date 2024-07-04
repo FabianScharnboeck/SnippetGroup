@@ -1,12 +1,10 @@
-package gcj2020.qualification.parenting_partner_returns;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Solution_292529 {
+public class U_ParentingPartnerReturns_Solution_292529 {
   public static void main(String[] args) {
     Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));  
     int t = in.nextInt();

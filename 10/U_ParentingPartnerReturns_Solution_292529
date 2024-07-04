@@ -10,17 +10,57 @@ No
 
 2.
 Question:
-Answer:
+You are in line 29.
+<br>w=0</br>
+<br>u=6</br>
+<br>cStart=cEnd=jStart=jEnd=[]</br>
+<br>start=[0,4,0,1,3,2]</br>
+<br>end=[1,5,1440,2,4,3]</br>
+What is the value of cStart and cEnd after one loop iteration (the inner loop in line 29)?
+
+Answer: (4)
+cStart=1 and cEnd=0
+0 and 0
+1 and 1
+0 and 1
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 46.
+<br>w=0</br>
+<br>u=6</br>
+<br>jStart=jEnd=[]</br>
+<br>cStart=[0,4]</br>
+<br>cEnd=[1,5]</br>
+<br>jdone=true</br>
+<br>st=0</br>
+<br>ed=1440</br>
+<br>start=[0,4,0,1,3,2]</br>
+<br>end=[1,5,1440,2,4,3]</br>
+What is the value of cStart and cEnd after one loop iteration (the inner loop in line 29)?
 
+Answer:
+0 and 1440
+1440 and 0
+0 and 0
+1440 and 1440
+Don't know
 
 
 4.
 Question:
-Answer:
+You are in line 66.
+<br>rest=['C','C','J','C','C','C']</br>
+<br>arr[w]=null</br>
+<br>w=0</br>
+What is the content of arr[w] after line 68?
+
+Answer: (1)
+Case #1: CCJCCC
+Case #0: CCJCCC
+Case #0: CCCJCC
+Case #1: CCCJCC

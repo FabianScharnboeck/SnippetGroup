@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class Solution_2c4524 {
+public class U_PascalWalk_Solution_2c4524 {
     private static Scanner in;
     private static PrintStream out;
 

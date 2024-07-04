@@ -10,17 +10,58 @@ No
 
 2.
 Question:
-Answer:
+You are in line 34.
+<br>T=12</br>
+<br>turn=0</br>
+<br>n=5</br>
+<br>k=2</br>
+<br>time=3</br>
+What is printed between line 34 and line 45 (45 included)?
+
+Answer: (3)
+2 4 <br>1 9</br><br>2 6</br>
+2 4 <br>2 6</br><br>2 9</br>
+2 4 <br>2 6</br><br>1 9</br>
+2 4 <br>2 6</br><br>1 9</br><br>2 8</br>
+Don't know
 
 
 
 
 3.
 Question:
-Answer:
+You are in line 36.
+<br>T=12</br>
+<br>turn=1</br>
+<br>n=4</br>
+<br>k=2</br>
+<br>time=3</br>
+What is printed between line 26 and line 32?
+
+Answer: (5) 2 3 2 5
+2 3 <br>1 5</br>
+2 3 <br>1 4</br>
+1 5 <br>1 2</br>
+1 5 <br>2 3</br>
+2 3 <br>2 5</br>
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 47.
+<br>T=12</br>
+<br>turn=8</br>
+<br>n=3</br>
+<br>k=3</br>
+<br>time=3</br>
+What is printed after one iteration of this for loop between line 47-63?
+
+Answer: (1) 2 5
+2 5
+2 6
+2 4
+2 3
+2 1
+Don't know
