@@ -1,1 +1,54 @@
-okokok
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 23.
+<br>set=["RS"]</br>
+<br>nextPos=0</br>
+What is the value of output in line 60?
+
+Answer: (1) P
+P
+R
+S
+Don't know
+
+
+3.
+Question:
+You are in line 23.
+<br>set=["P","R","S"]</br>
+<br>nextPos=0</br>
+<br>c=2</br>
+What is printed out between line 60-65?
+
+Answer: (5) IMPOSSIBLE
+Case #2 : P R S
+IMPOSSIBLE
+Case #1 : P S R
+P R S
+Case #2: IMPOSSIBLE
+Case #2 : R P S
+Don't know
+
+
+4.
+Question:
+You are in line 46.
+<br>charToString=[{key:P, value:["PPPRR","PRRRR"]}, {key:R, value:["RRRRR","RRRRP"]}]</br>
+<br>set=["RRRRR","RRRRP","PPPRR","PRRRR"]</br>
+Output is at first an empty string. What is the value of output in line 58 (only look at the current iteration)?
+
+Answer: (1) P
+P
+R
+S
+Don't know

@@ -1,0 +1,54 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 46.
+<br>out=[S, E]</br>
+<br>in=[S, E]</br>
+<br>s="SE"</br>
+What is the value of out in line 118?
+
+Answer: (3) E, S
+[S, E]
+[S, S]
+[E, S]
+[E, E]
+
+3.
+Question:
+You are in line 46.
+<br>out=[S, E, E, S]</br>
+<br>in=[S, E, E, S]</br>
+<br>s="SEES"</br>
+What is the value of out in line 118?
+
+Answer: (1) ESSE
+[E, S, S, E]
+[S, E, E, S]
+[S, S, S, S]
+Don't know
+
+
+
+4.
+Question:
+You are in line 65.
+<br>in=[S, E, S, E]</br>
+<br>out=[E, S, S, E</br>
+<br>myX=myY=otherX=otherY=0</br>
+<br>index=1</br>
+What is the value of out in line 81?
+
+Answer: (2) [E, S, E, S]
+[S, E, S, E]
+[E, S, E, S]
+[E, S, S, E]
+Don't know

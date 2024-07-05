@@ -1,0 +1,60 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 28.
+<br>senators=[2,2]</br>
+<br>senatorCount=2</br>
+What are the values of firstSenatorPosition and firstSenatorCount?
+
+Answer: (2) 1 2
+2 1
+1 2
+0 1
+1 0
+Don't know
+
+
+
+3.
+Question:
+You are in line 48.
+<br>senators=[3,2,2]</br>
+<br>senatorCount=3</br>
+<br>answer="B BA"</br>
+<br>firstSenatorPosition=1</br>
+What is the value of answer in line 63?
+
+Answer: (3) B BA
+B BA A
+B BA B
+B BA
+B BA AB
+Don't know
+
+
+4.
+Question:
+You are in line 84.
+<br>senators=[0,2,2]</br>
+<br>senatorCount=3</br>
+<br>answer="B BA AA A"</br>
+<br>firstSenatorPosition=1</br>
+<br>secondSenatorPosition=2</br>
+What is the value of answer after the while loop between line 84-88?
+
+Answer: (1)
+B BA AA A BC BC
+B BA AA A
+B BA AA A BC
+B BA AA A AB AB
+B BA AA A AB
+Don't know

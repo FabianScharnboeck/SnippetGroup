@@ -1,0 +1,59 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+2.
+Question:
+You are in line 17.
+<br>n=4</br>
+<br>caseNumber=1</br>
+What is printed in line 42?
+
+Answer: (5) Case #1: 3 1
+Case #0: 3 1
+Case #0: 4 1
+Case #0: 2 1
+Case #1: 1 1
+Case #1: 3 1
+Case #1: 2 1
+
+
+3.
+Question:
+You are in line 17
+<br>n=940</br>
+<br>caseNumber=2</br>
+What is the value of reverseNumberStack in line 25?
+
+Answer: (3) 9 4 0
+[94,0]
+[0,4,9]
+[9,4,0]
+[0,94]
+
+
+
+
+4.
+Question:
+You are in line 30
+<br>reverseNumberStack=[4,4,4,4]</br>
+<br>a=b=0</br>
+<br>i=1</br>
+What are the values of a and b in line 42?
+
+Answer: (4) 3333 1111
+3 1
+33 11
+333 111
+3333 1111
+2 1
+22 11
+222 111
+2222 1111
+Don't know
