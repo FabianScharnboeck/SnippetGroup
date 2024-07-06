@@ -1,0 +1,54 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 38.
+<br>parties=[2,2]</br>
+<br>p=["A","B"]</br>
+<br>sum=4</br>
+What is the value of sum after the first recursion?
+
+Answer: (2) 2
+1
+2
+3
+4
+Don't know
+
+
+
+3.
+Question:
+You are in line 42
+<br>parties=[0,1]</br>
+<br>p=["A","B"]</br>
+<br>sum=1</br>
+Which branch is taken first?
+Answer: (1)
+line 54-63
+line 64-69
+Don't know
+
+
+
+
+4.
+Question:
+You are in line 73
+<br>parties=[0,2,2]</br>
+<br>p=["A","B"]</br>
+<br>sum=4</br>
+<br>rip=false</br>
+Which branch is taken first?
+
+Answer: (1) 79-85
+line 79-85
+line 86-89

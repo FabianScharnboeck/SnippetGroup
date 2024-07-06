@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.util.stream.IntStream;
 
-public class Solution_13bdc7 {
+public class U_TaskRobotProgrammingStrategy_Solution_13bdc7 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));

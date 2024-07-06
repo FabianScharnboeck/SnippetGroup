@@ -1,0 +1,68 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 22:
+<br>i=1</br>
+<br>n=2</br>
+<br>a=""</br>
+<br>p="SE"</br>
+<br>counter=lydSTotal=mySTotal=0</br>
+<br>total=""</br>
+What is the value of total after one iteration of the loop?
+
+Answer: (1) E
+E
+S
+SE
+ES
+Don't know
+
+
+
+3.
+Question:
+You are in line 22:
+<br>i=2</br>
+<br>n=5</br>
+<br>a=""</br>
+<br>p="EESSSESE"</br>
+<br>counter=lydSTotal=mySTotal=0</br>
+<br>total=""</br>
+What is the value of total after two iterations of the loop?
+
+Answer: (4) SE
+ES
+SS
+SE
+EE
+Don't know
+
+
+
+4.
+Question:
+Question:
+You are in line 22:
+<br>i=3</br>
+<br>n=6</br>
+<br>a=""</br>
+<br>p="ESEESESSES"</br>
+<br>counter=lydSTotal=mySTotal=0</br>
+<br>total=""</br>
+What is the value of total after three iterations of the loop?
+
+Answer: (2) SSE
+EES
+SSE
+ESE
+SES
+Don't know

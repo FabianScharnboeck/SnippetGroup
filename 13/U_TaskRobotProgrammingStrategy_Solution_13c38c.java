@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution_13c38c{
+public class U_TaskRobotProgrammingStrategy_Solution_13c38c{
     private static final Scanner scanner = new Scanner(System.in);
     public static boolean[] disAllow(boolean allow[],ArrayList<Integer> al){
         int sz=al.size();

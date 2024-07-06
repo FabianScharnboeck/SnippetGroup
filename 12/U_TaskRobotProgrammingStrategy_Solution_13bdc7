@@ -1,0 +1,66 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 21.
+<br>myi=""</br>
+<br>robots=1</br>
+<br>isImposible=false</br>
+<br>ins=["RS"]</br>
+<br>i=0</br>
+What is printed to the console in line 74?
+
+Answer: (2) Case #1: P
+Case #0: P
+Case #1: P
+Case #0: S
+Case #1: S
+Case #0: IMPOSSIBLE
+Case #1: IMPOSSIBLE
+Don't know
+
+
+
+3.
+Question:
+<br>myi=""</br>
+<br>robots=3</br>
+<br>isImposible=false</br>
+<br>ins=["R", "P", "S"]</br>
+<br>i=1</br>
+What is printed to the console in line 74?
+
+Answer: (6) Case #2: IMPOSSIBLE
+Case #2: P
+Case #1: P
+Case #2: S
+Case #1: S
+Case #1: IMPOSSIBLE
+Case #2: IMPOSSIBLE
+Don't know
+
+
+
+4.
+Question:
+You are in line 21.
+<br>myi=""</br>
+<br>robots=1</br>
+<br>isImposible=false</br>
+<br>ins=["RPP"]</br>
+<br>i=3</br>
+What is the value of myi in line 71 onwards?
+
+Answer: (1) P
+P
+R
+Nothing
+Don't know

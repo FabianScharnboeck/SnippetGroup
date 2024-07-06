@@ -2,7 +2,7 @@
     import java.io.*;
     import java.lang.StringBuilder;
     
-    public class Solution_95ec2 {
+    public class U_YouCanGoYourOwnWay_Solution_95ec2 {
       public static void main(String[] args) {
           
         Scanner in = 

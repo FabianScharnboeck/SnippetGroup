@@ -1,0 +1,59 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 17
+<br>str="4"</br>
+<br>a="3"</br>
+<br>b="1"</br>
+<br>temp=""</br>
+What are the valuews of a and b in line 30?
+
+Answer: (2) 3 1
+3 4
+3 1
+3 3
+Don't know
+
+
+
+3.
+Question:
+You are in line 17
+<br>str="940"</br>
+<br>a="930"</br>
+<br>b="910"</br>
+<br>temp=""</br>
+What are the values of a and b in line 30?
+
+Answer: (1) 930 10
+930 10
+930 910
+930 91
+Don't know
+
+
+
+4.
+Question:
+You are in line 17
+<br>str="4444"</br>
+<br>a="3333"</br>
+<br>b="1111"</br>
+<br>temp=""</br>
+What are the values of a and b in line 30?
+
+Answer: (3) 3333 1111
+3333 4444
+3333 111
+3333 1111
+3333 3333
+Don't know

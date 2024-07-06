@@ -1,0 +1,50 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 20.
+<br>p="SE"</br>
+What is the value of r.toString() in line 31?
+
+Answer: (3) ES
+SS
+EE
+ES
+SE
+Don't know
+
+
+3.
+Question:
+You are in line 20.
+<br>p="EESSSESE"</br>
+What is the value of r.toString() in line 31?
+
+Answer: (1) ESSSSESE
+SSEEESES
+EESSSESE
+ESESSESE
+SESSESES
+Don't know
+
+
+4.
+Question:
+You are in line 20.
+<br>p="ESEESESSES"</br>
+What is the value of r.toString() in line 31?
+
+Answer: (2) SESSESEESE
+SESSESSESE
+SESSESEESE
+ESEEESEESE
+ESSSESESSE
+Don't know

@@ -1,0 +1,56 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 5.
+<br>allow=[true,true,true,true,true,true,true]</br>
+<br>al=[0,1,2,3,4]</br>
+What is the value of allow in line 11?
+
+Answer: (1)
+[false,false,false,false,false,true,true]
+[false,false,false,false,true,true,true]
+[false,false,false,false,false]
+[false,false,false,true, true]
+
+
+
+3.
+Question:
+You are in line 36.
+<br>flag=true</br>
+<br>allow=[true]</br>
+<br>n=1</br>
+<br>ind=[0]</br>
+What is the value of ind after the while-loop from line 36-51 has finished?
+
+Answer: (2) [1]
+[0]
+[1]
+[2]
+[3]
+Don't know
+
+
+
+4.
+Question:
+You are in line 53
+<br>flag=true</br>
+<br>st (HashMap)={key:R, value:[0,1,2,3,4,5,6]}</br>
+<br>oSb=""</br>
+What is the value of oSb after line 77?
+
+Answer: (3) P
+R
+S
+P
+Don't know

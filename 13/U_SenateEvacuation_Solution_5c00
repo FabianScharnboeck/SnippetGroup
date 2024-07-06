@@ -1,0 +1,57 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+You are in line 18
+<br>dataStr="3 2 2 "</br>
+<br>n=3</br>
+<br>result=""</br>
+What is the value of result in line 143?
+
+Answer: (3) AA A BC BC
+A BB AC AC AC
+A CC AB AB AB
+AA A BC BC
+Don't know
+
+
+
+3.
+Question:
+You are in line 18
+<br>dataStr="1 1 2 "</br>
+<br>n=3</br>
+<br>result=""</br>
+What is the value of result in line 143?
+
+Answer: (1) CC AB
+CC AB
+A BC
+BB AC
+Don't know
+
+
+
+4.
+Question:
+You are in line 18
+<br>dataStr="2 3 1 "</br>
+<br>n=3</br>
+<br>result=""</br>
+What is the value of result in line 143?
+
+Answer: (3) BC AB AB
+AB AB BC
+A CC AB AB AB
+BC AB AB
+A BC
+Don't know

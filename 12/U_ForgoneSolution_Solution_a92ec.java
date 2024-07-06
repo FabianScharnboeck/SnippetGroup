@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Solution_a92ec
+class U_ForgoneSolution_Solution_a92ec
 {
     public static void main(String args[])throws IOException
     {

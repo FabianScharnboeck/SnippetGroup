@@ -1,12 +1,10 @@
-package gcj2018.practise_session.senate_evacuation;
-
 import java.util.Scanner;
 
 /**
  *
  * @author win 7
  */
-public class Solution_3cb0 {
+public class U_SenateEvacuation_Solution_3cb0 {
 
     static int[] parties;
     static String[] p;

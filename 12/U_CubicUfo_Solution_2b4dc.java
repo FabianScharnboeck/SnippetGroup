@@ -1,5 +1,3 @@
-package gcj2018.qualification.cubic_ufo;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Solution_2b4dc {
+public class U_CubicUfo_Solution_2b4dc {
 
 	public static void main(final String[] args) {
 		final FastReader in = new FastReader();

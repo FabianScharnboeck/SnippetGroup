@@ -1,0 +1,57 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+You are in line 20.
+<br>T=100</br>
+<br>ts=1</br>
+<br>line="4"</br>
+What is the value of num1 and num2 in line 32?
+
+Answer: (1) 1 and 3
+1 and 3
+2 and 4
+4 and 0
+3 and 1
+Don't know
+
+
+
+3.
+Question:
+<br>T=100</br>
+<br>ts=2</br>
+<br>line="940"</br>
+What is the value of num1 and num2 in line 32?
+
+Answer: (3) 910 and 030
+900 and 030
+1 and 3
+910 and 030
+Don't know
+
+
+
+4.
+Question:
+<br>T=100</br>
+<br>ts=3</br>
+<br>line="4444"</br>
+What is the value of num1 and num2 in line 32?
+
+Answer: (3) 1111 and 3333
+0000 and 3333
+3333 and 0000
+1111 and 3333
+4444 and 0000
+1111 and 4444
+Don't know
