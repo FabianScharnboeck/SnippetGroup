@@ -1,6 +1,6 @@
 import java.util.*; 
 
-class Solution_13dc39 {
+class U_TaskRobotProgrammingStrategy_Solution_13dc39 {
 
     public static boolean beats(char pl, char ch) {
         return (ch == 'R' && pl == 'P') || (ch == 'P' && pl == 'S') || (ch == 'S' && pl == 'R');

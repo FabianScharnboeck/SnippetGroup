@@ -1,0 +1,65 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 15.
+<br>n=2</br>
+<br>t=1</br>
+<br>moves="SE"</br>
+<br>sb=""</br>
+<br>first="S"</br>
+<br>last="E"</br>
+What is printed in line 44?
+
+Answer: (2) ES
+Case #2: SEEEESSS
+Case #1: ES
+Case #1: SE
+Case #1: EE
+Con't know
+
+
+
+3.
+Question:
+You are in line 15.
+<br>n=5</br>
+<br>t=2</br>
+<br>moves="EESSSESE"</br>
+<br>sb=""</br>
+<br>first="E"</br>
+<br>last="E"</br>
+What is printed in line 44?
+
+Answer: (4) SEEEESSS
+Case #2: SSEEESSS
+Case #2: SEEEESES
+Case #2: SEEEESSE
+Case #2: SEEEESSS
+
+
+
+4.
+Question:
+You are in line 15.
+<br>n=3</br>
+<br>t=15</br>
+<br>moves="SSEE"</br>
+<br>sb=""</br>
+<br>first="S"</br>
+<br>last="E"</br>
+What is printed in line 44?
+
+Answer: (3) EESS
+Case #15: ESES
+Case #15: SSEE
+Case #15: EESS
+Case #15: SESE

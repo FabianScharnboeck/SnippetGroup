@@ -1,0 +1,59 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 15
+<br>intArray=[null]</br>
+<br>length=1</br>
+<br>number=4</br>
+<br>firstNumber=4</br>
+<br>secondNumber=0</br>
+What are the values of firstNumber and SecondNumber in line 26?
+
+Answer: (4) 3 and 1
+2 and 1
+3 and 4
+2 and 0
+3 and 1
+Don't know
+
+3.
+Question:
+You are in line 15
+<br>intArray=[null,null,null]</br>
+<br>number=940</br>
+<br>length=3</br>
+<br>firstNumber=940</br>
+<br>secondNumber=0</br>
+What are the values of firstNumber and SecondNumber in line 26?
+Answer: (1) 930 and 10
+930 and 10
+940 and 10
+94 and 11
+93 and 11
+
+
+
+4.
+Question:
+You are in line 15
+<br>intArray=[null,null]</br>
+<br>number=41</br>
+<br>length=2</br>
+<br>firstNumber=41</br>
+<br>secondNumber=0</br>
+What are the values of firstNumber and SecondNumber in line 26?
+
+Answer: (3) 41 and 10
+31 and 10
+41 and 1
+41 and 10
+31 and 1

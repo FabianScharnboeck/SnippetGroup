@@ -1,0 +1,55 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 10.
+<br>maxLen=2</br>
+<br>progs=["RS"]</br>
+<br>a=1</br>
+Which value does choice have in the first iteration of the loop in line 45?
+
+Answer: (1) P
+P
+S
+R
+Don't know
+
+
+
+3.
+Question:
+You are in line 10.
+<br>maxLen=4</br>
+<br>progs=["RPPR"]</br>
+<br>a=1</br>
+What is returned by the function computeSol()?
+
+Answer: (2) P
+R
+P
+S
+Don't know
+
+
+
+4.
+Question:
+You are in line 10.
+<br>maxLen=2</br>
+<br>progs=["PR", "R", "PP"]</br>
+<br>a=3</br>
+Now go to line 25 (the first iteration). What is the value of vals?
+
+Answer: (2) [P, R]
+[P]
+[P, R]
+[R]
+[P, R, S]
