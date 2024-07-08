@@ -1,0 +1,55 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 38.
+<br>c=["RS"]</br>
+<br>a=1</br>
+What is printed out?
+
+Answer: (3) Case #1: P
+Case #1: R
+Case #1: S
+Case #1: P
+Case #1: IMPOSSIBLE
+Don't know
+
+
+
+3.
+Question:
+You are in line 38.
+<br>c=["R", "P", "S"]</br>
+<br>a=3</br>
+What is printed out?
+
+Answer: (4) Case #2: IMPOSSIBLE
+Case #2: RSP
+Case #2: SRP
+Case #2: PSR
+Case #2: IMPOSSIBLE
+Don't know
+
+
+
+4.
+Question:
+You are in line 38.
+<br>c=["RPPR"]</br>
+<br>a=1</br>
+What is printed out?
+
+Answer: (2) Case #4: P
+Case #4: S
+Case #4: P
+Case #4: IMPOSSIBLE
+Case #4: R
+Don't know

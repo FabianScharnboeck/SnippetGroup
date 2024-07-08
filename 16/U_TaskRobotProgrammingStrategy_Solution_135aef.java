@@ -1,7 +1,7 @@
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Solution_135aef {
+public class U_TaskRobotProgrammingStrategy_Solution_135aef {
 
     static String solve(String[] array) {
         StringBuilder ans = new StringBuilder();

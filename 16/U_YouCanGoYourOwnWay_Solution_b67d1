@@ -1,0 +1,51 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 26.
+<br>s=[S,E]</br>
+What is printed by solve()?
+
+Answer: (1) Case #1: ES
+Case #1: ES
+Case #1: SE
+Case #1: SS
+Case #1: EE
+Don't know
+
+
+
+3.
+Question:
+You are in line 26.
+<br>s=[E,E,S,S,S,E,S,E]</br>
+What is printed by solve()?
+
+Answer: (2)
+Case #2: SSESESES
+Case #2: SSEEESES
+Case #2: SSEEESEE
+Case #2: SSEESEES
+Don't know
+
+
+4.
+Question:
+You are in line 26.
+<br>s=[E,S,E,E,S,E,S,S,E,S]</br>
+What is printed by solve()?
+
+Answer: (1) Case #3: SESSESEESE
+Case #3: SESSESEESE
+Case #3: SESSESEEEE
+Case #3: SEESESEESE
+Case #3: SESESSEESE
+Don't know

@@ -1,0 +1,63 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 28.
+<br>n=2</br>
+<br>total=4</br>
+<br>i=0</br>
+<br>list=[[2,2],[3,2,2],...]</br>
+<br>result="Case #1: "</br>
+What is the value of result after the first while-loop iteration (line 29-61)?
+
+Answer: (2) Case #1: AB
+Case #1: BA
+Case #1: AB
+Case #1: AA
+Case #1: BB
+Don't know
+
+
+
+
+3.
+Question:
+<br>n=2</br>
+<br>total=2</br>
+<br>i=4</br>
+<br>list.get(i)=[1,1]</br>
+<br>result="Case #5: "</br>
+What is the value of result after the first while-loop iteration (line 29-61)?
+
+Answer: (1) Case #5: AB
+Case #5: AB
+Case #5: BA
+Case #5: AA
+Case #5: BB
+Don't know
+
+
+
+4.
+Question:
+<br>n=6</br>
+<br>total=6</br>
+<br>i=4</br>
+<br>list.get(i)=[3,3]</br>
+<br>result="Case #7: "</br>
+What is the value of result after the second while-loop iteration (line 29-61)?
+
+Answer: (4) Case #7: AB AB
+Case #7: AB BA
+Case #7: AB AA
+Case #7: AB BB
+Case #7: AB AB
+Don't know

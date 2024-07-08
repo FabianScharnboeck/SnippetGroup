@@ -1,0 +1,53 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 28.
+<br>nums=[2,2]</br>
+<br>steps=[]</br>
+<br>sum=4</br>
+What is the value of nums after one iteration of the whileloop (line 28-35)?
+
+Answer: (2) [1,1]
+[2,2]
+[1,1]
+[0,0]
+Don't know
+
+
+
+3.
+Question:
+You are in line 46.
+<br>nums=[0,1]</br>
+<br>check=true</br>
+What is returned by add()?
+
+Answer: (1) B
+B
+A
+""
+Don't know
+
+
+
+4.
+Question:
+You are in line 37.
+<br>n=0</br>
+<br>steps=["AB","AB"]</br>
+What is printed out (line 38-40)?
+
+Answer: (2) Case #1: AB AB
+Case #1: ABAB
+Case #1: AB AB
+Case #0: ABAB
+Case #0: AB AB

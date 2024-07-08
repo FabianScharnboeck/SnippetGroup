@@ -1,0 +1,61 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 12
+<br>str="SE"</br>
+<br>i=1</br>
+What is printed out in line 23? (Consider the current iteration only)
+
+Answer: (4) Case #1: ES
+Case #0: ES
+Case #0: SE
+Case #0: SS
+Case #1: ES
+Case #1: SE
+Case #1: SS
+Don't know
+
+
+
+3.
+Question:
+You are in line 13.
+<br>str="EESSSESE"</br>
+<br>i=2</br>
+What is printed out in line 23? (Consider the current iteration only)
+
+Answer: (6) Case #2: SSEEESES
+Case #2: EESSSESE
+Case #2: SSEEESEE
+Case #1: SSESEESS
+Case #1: SSEEESES
+Case #2: SSESESES
+Case #2: SSEEESES
+Don't know
+
+
+
+4.
+Question:
+You are in line 13.
+<br>str="ESEESESSES"</br>
+<br>i=3</br>
+What is printed out in line 23? (Consider the current iteration only)
+
+Answer: (2) Case #3: SESSESEESE
+Case #3: SEESESEESE
+Case #3: SESSESEESE
+Case #3: SEEEESEESE
+Case #3: SESSSEEESE
+Case #3: SESSEESESE
+Case #3: SESSESEEES
+Don't know

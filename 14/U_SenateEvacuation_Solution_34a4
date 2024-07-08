@@ -1,0 +1,57 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 69.
+<br>i=0</br>
+<br>parties=[3,2,2]</br>
+<br>n=[A,B,C,D,E,...,X,Y,Z]</br>
+What is returned by removeParty()?
+
+Answer: (1) " AA"
+" AA"
+"AA"
+" BB"
+"BB"
+Don't know
+
+
+
+3.
+Question:
+You are in line 90.
+<br>parties=[3,3]</br>
+<br>i=0</br>
+<br>j=1</br>
+<br>n=[A,B,C,D,E,...,X,Y,Z]</br>^
+What is returned by removeParties()?
+
+Answer: (3) " AB"
+" BA"
+" AA"
+" AB"
+" BB"
+"BB"
+Don't know
+
+
+4.
+Question:
+You are in line 29
+<br>parties=[2,2]</br>
+<br>output="Case #1:"</br>
+What is the value of output in line 38?
+
+Answer: (3) "AB AB"
+"Case #1: AA BB"
+"Case #1: BB AA"
+"Case #1: AB AB"
+"Case #1: BA BA"

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Solution_13dcb6
+public class U_TaskRobotProgrammingStrategy_Solution_13dcb6
 {
   private static int t;
   private static int task;

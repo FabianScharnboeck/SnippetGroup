@@ -1,0 +1,51 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 13.
+<br>array=["RS"]</br>
+What is returned by solve()?
+
+Answer: (2) P
+R
+P
+S
+IMPOSSIBLE
+Don't know
+
+
+
+3.
+Question:
+You are in line 13.
+<br>array=["R", "P", "S"]</br>
+What is returned by solve()?
+
+Answer: (2) IMPOSSIBLE
+R
+P
+S
+IMPOSSIBLE
+
+
+
+
+4.
+Question:
+You are in line 13.
+<br>array=["RPPR"]</br>
+What is returned by solve()?
+
+Answer: (3) P
+S
+R
+P
+IMPOSSIBLE

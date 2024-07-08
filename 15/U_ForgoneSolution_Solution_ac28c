@@ -1,0 +1,57 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 7.
+<br>n=1</br>
+<br>up=true</br>
+What is the value of res after digits() completes?
+
+Answer: (2) 1
+0
+1
+2
+Don't know
+
+
+
+3.
+Question:
+You are in line 30.
+<br>A=1</br>
+<br>B=3</br>
+<br>i=1</br>
+<br>n=4</br>
+What is printed in line 38?
+
+Answer: (3) Case #1: 1 3
+Case #1: 0 2
+Case #1: 3 1
+Case #1: 1 3
+Case #1: 2 0
+Don't know
+
+
+4.
+Question:
+You are in line 30
+<br>A=1</br>
+<br>B=939</br>
+<br>i=2</br>
+<br>n=940</br>
+What is printed in line 38?
+
+Answer: (1) Case #2: 1 939
+Case #2: 1 939
+Case #2: 1 940
+Case #2: 1 941
+Case #2: 1 94
+Don't know
