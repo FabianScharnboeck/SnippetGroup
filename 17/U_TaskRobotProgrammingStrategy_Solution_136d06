@@ -1,0 +1,54 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 70.
+<br>competitors=["P", "R", "S"]</br>
+What is returned by collectCharSet()?
+
+Answer: (2) ["P", "R", "S"]
+[]
+["P", "R", "S"]
+["P", "R"]
+["R", "S"]
+Don't know
+
+
+
+3.
+Question:
+You are in line 24
+<br>sb=""</br>
+<br>curSet=["P", "R", "S"]</br>
+<br>impossible=false</br>
+What is printed out?
+
+Answer: (1) Case #2: IMPOSSIBLE
+Case #2: IMPOSSIBLE
+Case #2: P
+Case #2: P R S
+Don't know
+
+
+
+4.
+Question:
+You are in line 24
+<br>sb=""</br>
+<br>curSet=["R"]</br>
+<br>impossible=false</br>
+What is the value of res in line 56?
+
+Answer: (2) P
+RS
+P
+RSP
+IMPOSSIBLE

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Solution_136d06 {
+public class U_TaskRobotProgrammingStrategy_Solution_136d06 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));

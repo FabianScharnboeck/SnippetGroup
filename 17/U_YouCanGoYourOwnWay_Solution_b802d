@@ -1,0 +1,51 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 26
+<br>path="SE"</br>
+What is returned by pathSolution()?
+
+Answer: (2) ES
+SE
+ES
+SS
+EE
+Don't know
+
+
+
+3.
+Question:
+You are in line 26
+<br>path="EESSSESE"</br>
+What is returned by pathSolution()?
+
+Answer: (4) SSEEESES
+SSEEESEE
+EESSSESE
+SSESESES
+SSEEESES
+Don't know
+
+
+
+4.
+Question:
+You are in line 26
+<br>path="ESEESESSES"</br>
+What is returned by pathSolution()?
+
+Answer: (1) ESEESESSES
+ESEESESSES
+SESSESEESE
+SEEESESEES
+EESESEEESE

@@ -1,0 +1,56 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 26.
+<br>parties=[{count:2, name:'A'}]</br>
+<br>partiesCount=2</br>
+What is printed out?
+
+Answer: (1) A A
+A A
+A B
+B A
+B B
+Don't know
+
+
+
+3.
+Question:
+You are in line 26.
+<br>parties=[{count:2, name:'B'}, {count:3, name:'A'}]</br>
+<br>partiesCount=3</br>
+What is printed out after one iteration of the while loop (line 26-43)?
+
+Answer: (2) BB
+BB
+B B
+A A
+A B
+BA
+Don't know
+
+
+
+4.
+Question:
+You are in line 26.
+<br>parties=[{count:1, name='C'}, {count:2, name='A'}, {count:3, name:'B'}]</br>
+<br>partiesCount=3</br>
+What is printed out after two iterations of the while loop (line 26-43)?
+
+Answer: (3) C AA
+B AA
+CC AA
+C AA
+CC A
+Don't know
