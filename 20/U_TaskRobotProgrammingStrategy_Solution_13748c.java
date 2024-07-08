@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.*;
 
-public class Solution_13748c {
+public class U_TaskRobotProgrammingStrategy_Solution_13748c {
     static final Map<String, String> COUNTER_MOVES = new HashMap<>();
 
     static {
