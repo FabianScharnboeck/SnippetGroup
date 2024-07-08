@@ -1,0 +1,56 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 21
+<br>PriorityQueue q=[{x:2, y:1},{x:2, y:2}]</br>
+<br>sum=4.0</br>
+
+What is printed out?
+
+Answer: (2) AB AB
+BA BA
+AB AB
+AA AA
+AA AB
+Don't know
+
+
+
+3.
+Question:
+You are in line 21
+<br>PriorityQueue q=[{x:1, y:1},{x:1, y:2}]</br>
+<br>sum=2.0</br>
+
+What is printed out?
+
+Answer: (3) AB
+BA
+BB
+AB
+AA
+Don't know
+
+
+
+4.
+Question:
+<br>PriorityQueue q=[{x:3, y:1},{x3, y:2}]</br>
+<br>sum=6.0</br>
+What is printed out after ONE iteration of the while loop?
+
+Answer: (1) AB
+AB
+BA
+AA
+BB
+Don't know

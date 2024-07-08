@@ -1,0 +1,58 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 16:
+<br>n=4</br>
+<br>i=1</br>
+What is printed in line 43?
+
+Answer: (5) Case #1: 2 2
+Case #1: 4 2
+Case #1: 2 4
+Case #1: 22
+Case #1: 42
+Case #1: 2 2
+Don't know
+
+
+
+3.
+Question:
+You are in line 16:
+<br>n=940</br>
+<br>i=2</br>
+What is printed in line 43?
+
+Answer:
+(1) Case #2: 1 939
+Case #2: 1 939
+Case #2: 1 940
+Case #2: 1 94
+Case #2: 1 93
+Case #2: 2 940
+Don't know
+
+
+
+4.
+Question:
+You are in line 16:
+<br>n=4444</br>
+<br>i=3</br>
+What is printed in line 43?
+
+Answer: (3) Case #3: 2222 2222
+Case #3: 4444 3333
+Case #3: 2222 4444
+Case #3: 2222 2222
+Case #3: 2222 3333
+Don't know

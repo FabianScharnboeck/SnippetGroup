@@ -1,0 +1,64 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 26.
+<br>isPossible=true</br>
+<br>P=["RS"]</br>
+<br>idx=0</br>
+<br>N=1</br>
+<br>test=1</br>
+What is printed out?
+
+Answer: (1) Case #1: P
+Case #1: P
+Case #1: S
+Case #1: R
+Case #1: IMPOSSIBLE
+Don't know
+
+
+
+3.
+Question:
+You are in line 26.
+<br>isPossible=true</br>
+<br>P=["P", "R", "S"]</br>
+<br>idx=0</br>
+<br>N=3</br>
+<br>test=1</br>
+What is printed out?
+
+Answer: (4) IMPOSSIBLE
+Case #2: P
+Case #2: S
+Case #2: R
+Case #2: IMPOSSIBLE
+Don't know
+
+
+
+
+4.
+Question:
+You are in line 26.
+<br>isPossible=true</br>
+<br>P=["RPPR"]</br>
+<br>idx=0</br>
+<br>N=1</br>
+<br>test=4</br>
+What is printed out?
+
+Answer: (3) Case #4: P
+Case #4: S
+Case #4: R
+Case #4: P
+Case #4: IMPOSSIBLE

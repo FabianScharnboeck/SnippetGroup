@@ -1,0 +1,55 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+You are in line 31.
+<br>P="SE"</br>
+<br>N=2</br>
+What is returned by run()?
+
+Answer: (2) ES
+SE
+ES
+EE
+SS
+Don't know
+
+
+
+3.
+Question:
+You are in line 31.
+<br>P="EESSSESE"</br>
+<br>N=5</br>
+What is returned by run()?
+
+Answer: (1) SEEEESSS
+SEEEESSS
+ESSSEESE
+ESSESEES
+ESESESES
+Don't know
+
+
+
+4.
+Question:
+You are in line 31.
+<br>P="SSEE"</br>
+<br>N=2</br>
+What is returned by run()?
+
+Answer: (3) ES
+SE
+EESS
+ES
+SSEE
+Don't know
