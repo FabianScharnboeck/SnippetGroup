@@ -10,16 +10,53 @@ No
 
 2.
 Question:
-Answer:
+You are in line 21.
+<br>duplicate1=2</br>
+<br>part2=2</br>
+<br>part1=2</br>
+<br>i=1</br>
+<br>N=2</br>
+What is printed out by the console?
+
+Answer: (3) Case #1: 2  2
+Case #1: 2  1
+Case #1: 1  1
+Case #1: 2  2
+Case #1: 1  2
 
 
 
 3.
 Question:
-Answer:
+You are in line 21.
+<br>duplicate1=470</br>
+<br>part2=470</br>
+<br>part1=470</br>
+<br>i=2</br>
+<br>N=470</br>
+<br>T=100</br>
+What is the value of part1 after the first while-loop iteration (line 22-41)?
+
+Answer: (3) 47
+42
+470
+47
+Don't know
 
 
 
 4.
 Question:
-Answer:
+<br>duplicate1=2222</br>
+<br>part2=2222</br>
+<br>part1=2222</br>
+<br>i=3</br>
+<br>N=2222</br>
+<br>T=100</br>
+What is the value of part1 and part2 after the while-loop (line 22-41)?
+
+Answer: (1) 0 0
+0 0
+4 4
+44 44
+444 444

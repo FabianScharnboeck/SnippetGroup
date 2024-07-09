@@ -10,16 +10,54 @@ No
 
 2.
 Question:
-Answer:
+You are in line 40.
+<br>COUNTER_MOVES=[{key:P, value:R},{key:R, value:S},{key:S, value:P}]</br>
+<br>out=[]</br>
+<br>robotMoves=["RS"]</br>
+<br>moves=""</br>
+<br>move=0</br>
+What is returned by makeMove()?
+
+Answer: (3) P
+S
+R
+P
+null
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 40.
+<br>COUNTER_MOVES=[{key:P, value:R},{key:R, value:S},{key:S, value:P}]</br>
+<br>out=[]</br>
+<br>robotMoves=["R", "P", "S"]</br>
+<br>moves=""</br>
+<br>move=0</br>
+What is returned by makeMove()?
+
+Answer: (4) null
+S
+R
+P
+null
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 40.
+<br>COUNTER_MOVES=[{key:P, value:R},{key:R, value:S},{key:S, value:P}]</br>
+<br>out=[]</br>
+<br>robotMoves=["RPPR"]</br>
+<br>moves=""</br>
+<br>move=0</br>
+What is the value of possibleMove in line 42 (don't go into the recursion)?
+
+Answer: (3) P
+S
+R
+P
+Don't know

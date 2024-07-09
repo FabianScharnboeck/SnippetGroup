@@ -10,16 +10,51 @@ No
 
 2.
 Question:
-Answer:
+You are in line 43.
+<br>pq=[{num:2, c='A'}, {num:2, c:'B'}]</br>
+<br>num=4</br>
+<br>output=""</br>
+What is printed out by the console in line 78?
+
+Answer: (3) Case #1: AB AB
+Case #1: BA BA
+Case #1: ABAB
+Case #1: AB AB
+Case #1: AB AA
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 43.
+<br>pq=[{num:1, c='A'}, {num:1, c:'B'}]</br>
+<br>num=2</br>
+<br>output=""</br>
+What is printed out by the console in line 78?
+
+Answer: (4) Case #5: AB
+Case #5: BA
+Case #5: AA
+Case #5: BB
+Case #5: AB
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 43.
+<br>pq=[{num:3, c='A'}, {num:3, c:'B'}]</br>
+<br>num=6</br>
+<br>output=""</br>
+
+What is the value of output after one while-loop iteration and the size of pq?
+
+Answer: (1) AB & 2
+AB & 2
+AA & 1
+AB & 0
+BA & 2
+BB & 1
+AA & 0

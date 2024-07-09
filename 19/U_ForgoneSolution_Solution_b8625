@@ -10,16 +10,46 @@ No
 
 2.
 Question:
-Answer:
+You are in line 13.
+<br>i=2</br>
+<br>num=940</br>
+What is printed out (consider only the inner for-loop line 14-18)?
+
+Answer: (2) Case #2: 1 939
+Case #2: 1 940
+Case #2: 1 939
+Case #2: 1 938
+Case #2: 1 937
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 13.
+<br>i=1</br>
+<br>num=4</br>
+What is printed out (consider only the inner for-loop line 14-18)?
+
+Answer: (3) Case #1: 1 3
+Case #1: 0 2
+Case #1: 3 1
+Case #1: 1 3
+Case #1: 2 0
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 13.
+<br>i=3</br>
+<br>num=4444</br>
+What is printed out (consider only the inner for-loop line 14-18)?
+
+Answer: (4) Case #3: 505 3939
+Case #3: 505 3940
+Case #3: 505 4444
+Case #3: 505 3948
+Case #3: 505 3939
+Don't know

@@ -10,16 +10,48 @@ No
 
 2.
 Question:
-Answer:
+You are in line 23.
+<br>p=[{name:'A', members:2}, {name:'B', members:2}]</br>
+<br>i=1</br>
+<br>n=2</br>
+What is printed to the console()?
+
+Answer: (1) AB  AB
+AB  AB
+ABAB
+BABA
+BA  BA
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 23.
+<br>p=[{name:'A', members:3}, {name:'B', members:2}, {name:'C', members:2}]</br>
+<br>i=1</br>
+<br>n=2</br>
+What is printed to the console() after one iteration of the while-loop (line 24-46)?
+
+Answer: (3) AA
+BA
+AB
+AA
+BB
 
 
 
 4.
 Question:
-Answer:
+You are in line 23.
+<br>p=[{name:'A', members:1}, {name:'B', members:1}]</br>
+<br>i=5</br>
+<br>n=2</br>
+What is printed to the console()?
+
+
+Answer: (1) AB
+AB
+BA
+AA
+BB

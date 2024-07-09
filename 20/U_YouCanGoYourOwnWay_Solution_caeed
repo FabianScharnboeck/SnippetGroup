@@ -10,16 +10,49 @@ No
 
 2.
 Question:
-Answer:
+You are in line 18.
+<br>path="SE"</br>
+<br>grid=[[false,false], [false,false]]</br>
+<br>col=row=0</br>
+<br>i=0</br>
+What is printed out by the console?
+
+Answer: (1) Case #1: ES
+Case #1: ES
+Case #1: SE
+Case #1: EE
+Case #1: SS
 
 
 
 3.
 Question:
-Answer:
+You are in line 18.
+<br>path="SSEE"</br>
+<br>grid=(3x3 all false matrix)</br>
+<br>col=row=0</br>
+<br>i=14</br>
+What is the value of grid in line 35?
+
+Answer: (3) [[true,false,false],[true,false,false],[true,true,true]]
+[[false,false,false],[true,false,false],[true,true,true]]
+[[false,false,false],[false,false,false],[true,true,true]]
+[[true,false,false],[true,false,false],[true,true,true]]
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 18.
+<br>path="SEESESEESSES"</br>
+<br>grid=(7x7 all false matrix)</br>
+<br>col=row=0</br>
+<br>i=16</br>
+What is printed out by the console?
+
+Answer: (1) Case #17: ESSESESESESE
+Case #17: ESSESESESESE
+Case #16: ESSESEEEESESE
+Case #15: ESSESESE
+Case #14: ESSSSSESESESESE

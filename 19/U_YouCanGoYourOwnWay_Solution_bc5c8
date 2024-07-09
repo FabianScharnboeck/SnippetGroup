@@ -10,16 +10,61 @@ No
 
 2.
 Question:
-Answer:
+You are in line 32.
+<br>size=2</br>
+<br>curr_path=""</br>
+<br>original_path="SE"</br>
+<br>output_path=""</br>
+<br>grid=[[0,1,0], [0,1,0], [0,0,0]]</br>
+<br>x=0</br>
+<br>y=0</br>
+<br>path_count=0</br>
+What is printed to the console in line 25?
+
+
+Answer: (1) ES
+Case #1: ES
+Case #1: SE
+Case #1: EE
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 32.
+<br>size=5</br>
+<br>curr_path=""</br>
+<br>original_path="EESSSESE"</br>
+<br>output_path=""</br>
+<br>grid=[[0,0,0,0,0,0],[1,0,0,0,0,0],[1,1,1,1,0,0],[0,0,0,1,1,0],[0,0,0,0,1,0],[0,0,0,0,0,0]]</br>
+<br>x=0</br>
+<br>y=0</br>
+<br>path_count=0</br>
+What is printed to the console in line 25?
+
+Answer: (2) Case #1: SEEEESSS
+Case #1: ESEEESSS
+Case #1: SEEEESSS
+Case #1: EESSEESS
+Don't know
 
 
 
 4.
 Question:
-Answer:
+<br>size=3</br>
+<br>curr_path=""</br>
+<br>original_path="SSEE"</br>
+<br>output_path=""</br>
+<br>grid=[[0,1,1,0],[0,0,1,0],[0,0,1,0],[0,0,0,0]]</br>
+<br>x=0</br>
+<br>y=0</br>
+<br>path_count=0</br>
+What is printed to the console in line 25?
+
+Answer: (4) Case #15: EESS
+Case #15: ESSS
+Case #15: EEES
+Case #15: SSEE
+Case #15: EESS
