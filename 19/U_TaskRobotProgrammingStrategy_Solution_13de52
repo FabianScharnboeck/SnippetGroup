@@ -10,16 +10,56 @@ No
 
 2.
 Question:
-Answer:
+You are in line 31.
+<br>rock=paper=scissors=false</br>
+<br>j=0</br>
+<br>i=0</br>
+<br>ans=""</br>
+<br>strats=["RS"x973] (Comment: the string is too long to display. It is of the pattern "RSRSRSRS...")</br>
+What is printed out by the console in line 75?
+
+Answer: (3) Case #1: P
+Case #1: S
+Case #1: R
+Case #1: P
+Case #1: IMPOSSIBLE
+Don't know
 
 
 
 3.
 Question:
-Answer:
+You are in line 31.
+<br>rock=paper=scissors=false</br>
+<br>j=0</br>
+<br>i=1</br>
+<br>ans=""</br>
+<br>strats=["R"x973, "P"x973, "S"x973] (Comment: the strings are too long to display.)</br>
+What is printed out by the console in line 75?
+
+Answer: (4) Case #2: IMPOSSIBLE
+Case #2: S
+Case #2: R
+Case #2: P
+Case #2: IMPOSSIBLE
+Don't know
 
 
 
 4.
 Question:
-Answer:
+You are in line 31.
+<br>rock=paper=scissors=false</br>
+<br>j=0</br>
+<br>i=3</br>
+<br>ans=""</br>
+<br>strats=["RPPR"x973] (Comment: the string is too long to display, has a repeating pattern. "RPPRRPPRRPPR...")</br>
+What is printed out by the console in line 75?
+
+
+Answer: (3) Case #4: P
+Case #4: S
+Case #4: R
+Case #4: P
+Case #4: IMPOSSIBLE
+Don't know

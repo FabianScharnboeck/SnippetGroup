@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Solution_13de52{
+public class U_TaskRobotProgrammingStrategy_Solution_13de52{
     public static String fit(String s, int tar){
         String ans = s;
         int len = s.length();
