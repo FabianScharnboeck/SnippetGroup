@@ -1,0 +1,42 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is the meaning of ans.
+
+Answer:
+ansible
+answer (X)
+ans
+
+
+3.
+Question:
+ans consists of a string sequence which can contain the letters "P" "S" and "R".
+What does P stand for?
+
+Answer:
+Paper (X)
+Proceed
+Priority
+It doesn't mean anything
+
+
+
+
+4.
+Question:
+What does the method trim() do?
+
+Answer:
+Trims the whitespace from the beginning and end of the string
+Returns a substring that was trimmed from the middle to the end according to a certain length.
+Returns a substring that was trimmed from the beginning of the string. (X)

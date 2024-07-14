@@ -1,0 +1,37 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is the priority queue "p" used for?
+Answer:
+To get the next party faster.
+To get the next party according to a certain comparable order. (X)
+To get the last party instead of the first one each time.
+
+
+
+3.
+Question:
+Why does class Party implement Comparable<Party>?
+Answer:
+To be able to impose an ordering among two instances of Party. (X)
+To be able to compare the fields of one party instance among each other.
+To be able to order the fields when a party is instantiated.
+
+
+
+4.
+Question:
+What does "p.size() % 2 != 0" mean?
+Answer:
+It means that the size of the priority queue is odd.
+It means that the size of the priority queue is even. (X)
+It means that the size of the priority queue is not of a certain size.
