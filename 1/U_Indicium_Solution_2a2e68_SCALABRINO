@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What stream is used to get the input for the program?
+
+Answer:
+PrintWriter
+System.in (X)
+System.out
+Don't know
+
+3.
+Question:
+What does br.readLine().split(" ") do?
+
+Answer:
+It splits the line according to the regex " " (X)
+It splits the whole input of br according to the reges " "
+It splits the line according to the regex ""
+Don't know
+
+4.
+Question:
+What does x stand for?
+
+Answer:
+The next case
+The current case (X)
+the last case
+Don't know

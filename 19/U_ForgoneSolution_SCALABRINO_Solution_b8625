@@ -16,6 +16,7 @@ Answer:
 It checks whether the number is divisible by 4
 It checks whether the number contains the digit 4 (X)
 It checks whether the number consists of 4 digits
+Don't know
 
 
 
@@ -27,6 +28,7 @@ Answer:
 It divides the variable by 10 and reassignes it to the variable (X)
 It only divides the number by 10
 It checks whether the number is unequal to 10
+Don't know
 
 4.
 Question:
@@ -36,3 +38,4 @@ Answer:
 To interrupt the for-loop if no solution was found
 To proceed with the next case if a solution was found (X)
 To break out of the if statement
+Don't know

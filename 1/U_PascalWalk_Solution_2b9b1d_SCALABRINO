@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does sqrt stand for?
+
+Answer:
+sqrt
+square root (X)
+squared
+Don't know
+
+3.
+Question:
+What is returned by solve()?
+
+Answer:
+An array of size 2 (X)
+An array of size 1
+An array of size (t * n- t * (t+1) / 2 - 1)
+Don't know
+
+4.
+Question:
+What is the difference between System.out.printf() and System.out.println() here?
+
+Answer:
+Both print a line
+The former prints a line without line break, the latter a line with line break
+The former prints a formatted string, the latter a line (X)
+Don't know

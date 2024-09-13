@@ -16,6 +16,7 @@ Answer:
 ansible
 answer (X)
 ans
+Don't know
 
 
 3.
@@ -28,6 +29,7 @@ Paper (X)
 Proceed
 Priority
 It doesn't mean anything
+Don't know
 
 
 
@@ -40,3 +42,4 @@ Answer:
 Trims the whitespace from the beginning and end of the string
 Returns a substring that was trimmed from the middle to the end according to a certain length.
 Returns a substring that was trimmed from the beginning of the string. (X)
+Don't know

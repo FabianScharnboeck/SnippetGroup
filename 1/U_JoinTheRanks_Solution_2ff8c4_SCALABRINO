@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does hs.contains(h) do?
+
+Answer:
+Returns false if this set contains the specified element
+Returns true if this set contains the specified element (X)
+Returns false if this set contains any element
+Don't know
+
+3.
+Question:
+What does Position prev stand for?
+
+Answer:
+prevalent
+previous (X)
+prevent
+Don't know
+
+4.
+Question:
+What does copyFrom(Position p) do?
+
+Answer:
+It copies the values of Position p object to the 'this' object (X)
+It copies the first value of Position p
+It copies from Position p and deletes Position p afterwards.
+Don't know

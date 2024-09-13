@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does canAssign() do?
+
+Answer:
+It checks whether jamie can be assigned cameron as a partner
+It checks wheether jamie has time left for cameron
+It checks whether a time block can be assigned to cameron, jamie, both or nobody (X)
+Don't know
+
+3.
+Question:
+What does printSolution() do?
+
+Answer:
+Returns a String array formatted according to th arguments
+Returns the string "Case #%d: %s 3 result" for testCaseNumber=3 and result="result"
+Returns a formatted string using the specified format string and arguments (X)
+Don't know
+
+4.
+Question:
+What statement about assignTask() is true?
+
+Answer:
+It always returns success
+It uses a scheduler to time its execution
+It is recursive (X)
+Don't know
