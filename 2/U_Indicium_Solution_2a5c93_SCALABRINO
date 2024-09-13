@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does gcd(long a, long b) stand for?
+
+Answer:
+Greatest Common Difference
+Greatest Common Divisor (X)
+Greaetest Common Denominator
+
+Don't know
+
+3.
+Question:
+What does sortByColumn(int arr[][], int col) do?
+
+Answer:
+It sorts the 2d array where only the specified 'col' index is considered as sort key (X)
+It sorts the 2d array only up until the nth column, specified by 'col'
+It sorts the 2d array, consindering the first column as key
+Don't know
+
+4.
+Question:
+Why does U and V extend the Comparable interface?
+
+Answer:
+It makes U comparable to V
+It is always required for generic values
+It imposes that the generic values U and V must be values that can be compared (X)
+Don't know

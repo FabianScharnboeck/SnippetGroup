@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does PrintWriter take as input?
+
+Answer:
+A Scanner
+An output writer
+An output stream (X)
+
+Don't know
+
+3.
+Question:
+What is printed by the PrintWriter pw in every case
+
+Answer:
+Exactly 'i j'
+'x y' where x and y are two integers (X)
+'i j' where i and j are concatenated strings
+Don't know
+
+4.
+Question:
+What is true about int[][] pascal.
+
+Answer:
+It has the size 504*504
+All diagonal values are 1 (X)
+pascal[i][j] is always the square root of the previous value
+Don't know

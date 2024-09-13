@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does prev stand for?
+
+Answer:
+prevalent
+previous (X)
+precise
+Don't know
+
+3.
+Question:
+What is the Set<String> visited used for?
+
+Answer:
+To visit the next value in the queue.
+To print the visited values in order.
+To remember which combination has already been tried. (X)
+Don't know
+
+4.
+Question:
+What is List<String> list = new ArrayList<>() used for?
+
+Answer:
+To save 'last' and 'root'
+To print the results (X)
+To only save the results
+Don't know

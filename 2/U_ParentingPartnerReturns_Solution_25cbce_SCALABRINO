@@ -1,0 +1,41 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does 'flag' stand for?
+
+Answer:
+It is a flag to indicate when the program should stop
+It is a flag to indicate when the program found an impossible case (X)
+It is a flag to indicate when the program should continue
+Don't know
+
+3.
+Question:
+What does Integer.parseInt(strs[k]) do?
+
+Answer:
+It splits the string "\\s+"
+It converts strs[k] into an int (X)
+It assigns a new value to strs[k]
+
+Don't know
+
+4.
+Question:
+Why is the compare(int[] a, int[] b) method implemented?
+
+Answer:
+It is not necessary
+To specify how the 2d array mat should be sorted (X)
+to specify how the 3d array mat should be sorted
+
+Don't know
