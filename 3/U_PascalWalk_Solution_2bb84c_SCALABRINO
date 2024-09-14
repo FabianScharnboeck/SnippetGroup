@@ -1,0 +1,43 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+What is the role of the class Data in this code?
+
+Answer:
+It represents a point (X)
+It reads input values and stores them for processing
+It defines a comparator for sorting rows
+Don't know
+
+
+
+3.
+Question:
+What does extend(int x, int y) in the Data class do?
+
+Answer:
+It removes a point from the list and decreases the sum
+It calculates the difference of values for a given row
+It adds a new point to the list and updates the sum (X)
+Don't know
+
+
+4.
+Question:
+How is the priority determined in the PriorityQueue<Data> used in the find(int sum) method?
+
+Answer:
+It prioritizes paths with the smallest sum first
+It prioritizes paths with the largest sum first (X)
+It prioritizes paths based on the number of points
+Don't know

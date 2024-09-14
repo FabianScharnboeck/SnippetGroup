@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What condition does the method isSumEqualToK check?
+
+Answer:
+It checks if the sum of elements in each row is equal to k
+It checks if the sum of the diagonal elements of the matrix equals k (X)
+It checks if the matrix is symmetric
+Don't know
+
+3.
+Question:
+What does the isInRow method do?
+
+Answer:
+It checks if the value a exists in a given row (X)
+It checks if the value a exists in a given column
+It adds the value a to the given row
+Don't know
+
+
+4.
+Question:
+What is the purpose of Arrays.fill()?
+
+Answer:
+To mark matrix positions that are already filled
+To mark matrix positions as unfilled so the algorithm can work on these positions (X)
+To ensure that all elements are initialized to zero
+Don't know

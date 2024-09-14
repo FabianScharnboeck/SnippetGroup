@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the pregeneratePascal method do?
+
+Answer:
+It computes the factorial of a number
+It generates the 2D array to the given depth (X)
+It creates a 2D array of zeros
+Don't know
+
+3.
+Question:
+What is the value for all diagonal values of pascal[][] in the beginning?
+
+Answer:
+0
+1 (X)
+2
+Don't know
+
+
+4.
+Question:
+What does currR and currK stand for?
+
+Answer:
+correctR, correctK
+currentR, currentK (X)
+currentRadius, currentKey
+Don't know

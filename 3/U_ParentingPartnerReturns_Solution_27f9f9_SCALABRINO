@@ -1,0 +1,44 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+What is the purpose of flag here?
+
+Answer:
+Flags if the custom comparator should be used
+Indicate when a solution can not be found (X)
+Tell if the program should continue
+Don't know
+
+
+
+3.
+Question:
+What does the value 1 in m[i][3] represent?
+
+Answer:
+The task is assigned to C (X)
+The task is assigned to J
+The task has been completed
+Don't know
+
+
+
+4.
+Question:
+What is the purpose of the method compare in the Comparator?
+
+Answer:
+It sorts based on the size of the array
+It sorts based on task start times (X)
+It groups based on task IDs
+Don't know

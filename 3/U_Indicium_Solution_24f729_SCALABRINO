@@ -1,0 +1,45 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+
+2.
+Question:
+What does hashInd stand for?
+
+Answer:
+hashIndicator
+hashInducted
+hashIndex (X)
+Don't know
+
+
+
+3.
+Question:
+What is one of the use cases 'flag' is used for?
+
+Answer:
+To indicate that a solution is impossible (X)
+To flag if a solution is ambiguous
+To flag how many times the program has to run.
+
+Don't know
+
+
+
+4.
+Question:
+What is 'mat' used for?
+
+Answer:
+It is the 2d representation of rowMask and colMask
+It contains the solution that will be printed (X)
+It is used to store indexes
+Don't know

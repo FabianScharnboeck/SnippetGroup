@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the method decode(long a, int n) do?
+
+Answer:
+It converts a long value back into an array of integers (X)
+It encodes an array into a long value
+It sorts the array elements
+Don't know
+
+3.
+Question:
+What is Stack<String> stk used for?
+
+Answer:
+To empty the queue
+To print the answer (X)
+To visit all results and save them
+Don't know
+
+
+4.
+Question:
+What happens if r == 1 or s == 1
+
+Answer:
+The result will be s-1
+The result will be 0 (X)
+The result will be impossible

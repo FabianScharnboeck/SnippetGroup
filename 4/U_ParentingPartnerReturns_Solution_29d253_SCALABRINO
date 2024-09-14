@@ -1,0 +1,39 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the Activity class represent?
+
+Answer:
+It represents a person
+It represents a scheduled activity with start, end, and index values (X)
+It represents the test case number
+Don't know
+
+3.
+Question:
+What is stored in the assignment array?
+
+Answer:
+It stores the result of the test case
+It stores the currently assigned activities for 'C' and 'J' (X)
+It stores the names of all participants
+Don't know
+
+4.
+Question:
+What happens when the code outputs "IMPOSSIBLE"?
+
+Answer:
+It means the array is unsorted
+It means that no correct result can be produced (X)
+It means the input data is incorrect
+Don't know
