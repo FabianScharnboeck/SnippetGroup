@@ -1,0 +1,41 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does T stand for?
+
+Answer:
+Number of tests to check
+Number of cases to solve (X)
+Number of rows to calculate
+Don't know
+
+3.
+Question:
+What does matrix contain?
+
+Answer:
+An output stream to print when the program is finished
+The result if possible (X)
+The values of rows and cols
+
+Don't know
+
+
+4.
+Question:
+What happens if neither dfs_dec nor dfs_inc find a solution?
+
+Answer:
+The program restarts the search
+The program raises an exception
+The program prints "IMPOSSIBLE" (X)
+Don't know

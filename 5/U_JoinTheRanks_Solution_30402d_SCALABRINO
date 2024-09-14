@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the printPath method in the S class do?
+
+Answer:
+It prints the sequence of moves (X)
+It prints the matrix elements
+It calculates the number of operations performed
+Don't know
+
+3.
+Question:
+What role does the equals method play in the S class?
+
+Answer:
+It compares the matrix sizes and recursively checks for equivalence
+It checks if the matrices are symmetric
+It determines if two S objects (matrix states) are equal by comparing their v arrays (X)
+Don't know
+
+
+4.
+Question:
+What does good() do?
+
+Answer:
+It checks if the array has less than i + 1 values
+It checks if the array is sorted in ascencing order (S)
+It checks if the array is sorted in decreasing order
+Don't know

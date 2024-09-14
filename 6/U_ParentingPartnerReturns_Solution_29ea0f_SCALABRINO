@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is the purpose of the variable "impossible"?
+
+Answer:
+It is a flag indicating that a solution can not be found (X)
+It is a flag for when to use a backup interval
+It is a flag indicating the writer to flush
+Don't know
+
+3.
+Question:
+What is intervalsSorted good for?
+
+Answer:
+It contains interval objects in an order (X)
+It always sorts the interval objects if a new one is added
+It does group sorted intervals together
+Don't know
+
+
+4.
+Question:
+Why does the writer at some point use writer.write(System.lineSeparator())?
+
+Answer:
+Because otherwise the result would be impossible
+Because every result must have a whitespace at the end of a line
+Because otherwise every result would be printed to the same line (X)
+Don't know

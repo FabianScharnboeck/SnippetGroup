@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+Whata does down(int n) do?
+
+Answer:
+It prints numbers from 1 to n in descending order
+It prints from 0 to n in ascending order
+It prints from x to n in ascending order (X)
+Don't know
+
+3.
+Question:
+What is meant by the variable name "cases"?
+
+Answer:
+It tells which cases must be used by the program
+It tells how many cases must the input provided to be calculated by the program (X)
+It tells which algorithm should be used depending on the number
+Don't know
+
+
+4.
+Question:
+What is true about the variable e
+
+Answer:
+It is always even
+It is always odd
+it can be both (X)
+Don't know

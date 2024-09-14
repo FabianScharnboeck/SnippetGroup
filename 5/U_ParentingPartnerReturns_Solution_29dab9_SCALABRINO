@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does orderSol() do?
+
+Answer:
+The orderSol method creates a solution string (X)
+The orderSol method generates a new solution based on a different algorithm
+The orderSol method checks if the solution is correct
+Don't know
+
+3.
+Question:
+What is the format of a printed solution?
+
+Answer:
+Case # 2 : Impossible
+Case#1: IMPOSSIBLE
+Case #1: IMPOSSIBLE (X)
+Don't know
+
+
+4.
+Question:
+What is the purpose of solve()?
+
+Answer:
+Solve the problem and terminate the program
+Solve the problem and return the correct answer (X)
+Solve the problem and throw an exception if IMPOSSIBLE
+Don't know

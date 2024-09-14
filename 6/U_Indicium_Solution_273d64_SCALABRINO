@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is the purpose of the isValid() method?
+
+Answer:
+Checks that the matrix sum is always equal to cho
+Ensures the number being placed does not repeat in the current row and column (X)
+Checks that the matrix is filled
+Don't know
+
+3.
+Question:
+What does r and c stand for in isValid()?
+
+Answer:
+row, column (X)
+right, choose
+random, choice
+Don't know
+
+
+4.
+Question:
+What is printAnswer() responsible for?
+
+Answer:
+To print out all answers
+To print out correct answers (X)
+To print out the case that is not yet calculated
+Don't know
