@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is isDebugMode used for?
+
+Answer:
+It is used to work with a custom input file and to measure time (X)
+It is used to debug the BufferedReader with a custom InputStream
+It is used for writing hardcoded solutions
+Don't know
+
+3.
+Question:
+What does res stand for?
+
+Answer:
+It stands for rest, because it is assigned the values of cres
+It means restore, because it is reassigned in the for-loop.
+It means result, because it holds the final values to be printed (X)
+Don't know
+
+
+4.
+Question:
+Why is there a finally block that calls p.destroy()?
+
+Answer:
+Because p isn't considered by the garbage collector
+Because it is safer to manually terminate a process after use (X)
+Because the program always runs in interactive mode
+Don't know

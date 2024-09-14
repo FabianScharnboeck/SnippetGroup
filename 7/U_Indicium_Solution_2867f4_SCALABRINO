@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is the purpose of "flag"?
+
+Answer:
+To indicate if a solution is impossible (X)
+To indicate if a solution is true
+To indicate if a solve goes into recursion
+Don't know
+
+3.
+Question:
+What is str[] used for?
+
+Answer:
+As a result string
+As array holding the input values to compute the solution for (X)
+An array of rows and columns to print if a solution was found
+Don't know
+
+
+4.
+Question:
+What do row and col in the method solve() do?
+
+Answer:
+They function as indices for m
+They are used as index for the squares matrix (X)
+They are used as values to reassign squares
+Don't know

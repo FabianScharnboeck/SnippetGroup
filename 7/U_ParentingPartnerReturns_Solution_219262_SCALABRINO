@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does 'failed' stand for?
+
+Answer:
+It is a flag indicating that there is a conflict that results to an impossible case (X)
+It is a flag indicating that the program must recalculate the points
+It is a flag indicating that all cases have been calculated and the program can stop
+Don't know
+
+3.
+Question:
+What is the purpose of the points array?
+
+Answer:
+The points array is used to print the points in order
+The points array holds all points which are later assigned a "C" or "J" (X)
+The points array holds most points which are later assigned "C" or "J"
+Don't know
+
+
+4.
+Question:
+What is 'int tests' used for?
+
+Answer:
+To flag whether the execution of a program is in test mode or not
+To indicate the number of distinct cases the algorithm has to process (X)
+To let the algorithm run multiple times over the same input
+Don't know
