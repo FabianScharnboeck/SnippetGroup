@@ -1,0 +1,37 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is true about System.out.println(String.format("Case #%d:", testCase))?
+
+Answer:
+It is equal to System.out.printf("Case #%d:\n", testCase)) (X)
+It formats the string after setting a new line
+It flushes the output stream after formatting the text
+Don't know
+
+3.
+Question:
+What is result used for in findInternal()?
+
+Answer:
+It is used to check if a Point in ads is already contained in result to exit the recursion.
+It is used to avoid calculating with Points that have already been calculated (X)
+It is used to print the result
+
+Don't know
+
+
+4.
+Question:
+
+Answer:
+Don't know

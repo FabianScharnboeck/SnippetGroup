@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+Why does Activity implement the Comparable interface?
+
+Answer:
+To avoid the "IMPOSSIBLE" case which occurs if no ordering is present
+To impose an order on the TreeSet (X)
+To correctly order by the user field of the Activity class
+Don't know
+
+3.
+Question:
+What is done with every activity in orderedActivities?
+
+Answer:
+Every activity is assigned a user
+Every activity is assigned a user if it is a possible solution, otherwise paresText returns an "IMPOSSIBLE" string (X)
+Every activity is assigned either the user "C", "J" or "IMPOSSIBLE" if there is no result
+Don't know
+
+
+4.
+Question:
+What do s and e stand for in the class Activity?
+
+Answer:
+Sarah and Emil (The possible user names)
+Start and End (X)
+Store and Eject
+Don't know

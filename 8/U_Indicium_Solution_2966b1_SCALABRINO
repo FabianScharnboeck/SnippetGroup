@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does numTestCase stand for?
+
+Answer:
+minimum nuber of test cases
+number of test cases (X)
+current test case
+Don't know
+
+3.
+Question:
+What does isLatinSquare(int[][] matrix) compute?
+
+Answer:
+It checks how often each number from 0 to matrix.length appears in 'matrix'
+It checks if each number in 'matrix' appears at most once per row and column (X)
+It checks if each number in 'matrix' appears once
+Don't know
+
+
+4.
+Question:
+What does fillMatrix(int[][] matrix) do?
+
+Answer:
+Fills matrix from 1 to matrix.length for every row
+Fills matrix with random numbers between 1 to matrix.length (X)
+Fills matrix with for each row and column with values 1 to n+1
+Don't know

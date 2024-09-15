@@ -1,0 +1,41 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is q used for?
+
+Answer:
+It counts and saves the number of test cases
+As a queue to work with the next item in line and add a new one if needed (X)
+It contains the results that will be printed
+
+Don't know
+
+3.
+Question:
+Why is println not used, but rather printf?
+
+Answer:
+To have every test case in the same line
+To keep track of the file while printing
+To format the string according to a predefined format (X)
+Don't know
+
+
+4.
+Question:
+What is the minimum number that can be part of 'result' in the method transform()?
+
+Answer:
+a
+a+b-1
+0 (X)
+Don't know
