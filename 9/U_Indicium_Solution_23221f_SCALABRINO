@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does isSafe(int[][] board, int row, int col, int num) do?
+
+Answer:
+Checks if the specified row and column don't contain num (X)
+Checks if the specified row and column contain num
+Checks if the board at position row and col contains num
+Don't know
+
+3.
+Question:
+When is isEmpty set to false?
+
+Answer:
+When isSafe(board, row, col, num) is true
+When the board has no valid number (1 to 9) (X)
+When the recursive case of solveSudoku returns false
+Don't know
+
+
+4.
+Question:
+What does print() do?
+
+Answer:
+Printing the board of size N*N (X)
+Printing the board of size board.size()
+Printing the board of size Math.sqrt(N)
+Don't know

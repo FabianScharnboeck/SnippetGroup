@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does T do?
+
+Answer:
+It means Transform and iterates over all permutations of R and S
+Together with R and S it saves the number of test cases
+It is short for Test case and represents one case from the input (X)
+Don't know
+
+3.
+Question:
+What does t do?
+
+Answer:
+t is the current test case that is executed (X)
+t is the number of remaining test cases
+t is used by the scanner to get the next input
+Don't know
+
+
+4.
+Question:
+What range of solutions is supported by R and S in this snippet?
+
+Answer:
+every combination
+2-5, 2-5
+2-5, 2-7 (X)
+Don't know

@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is the purpose of the variable 'imposible'?
+
+Answer:
+It stops the program if set to true
+Set to true if there is no viable solution (X)
+It prints the next test case if set to true
+Don't know
+
+3.
+Question:
+Why does Pair implement the Comparable interface?
+
+Answer:
+Because in order to check if a solution is possible or not, it has to be sorted
+Because it is later needed for printing the solution in order (X)
+Because in case a solution is impossible, it must be printed in order for debugging purposes
+Don't know
+
+
+4.
+Question:
+What are the possible results that can be printed?
+
+Answer:
+C, J and IMPOSSIBLE (X)
+C and J
+res, guy and IMPOSSIBLE
+Don't know
