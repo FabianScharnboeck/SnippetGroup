@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What is the purpose of r?
 
 Answer:
+It saves the string of E and S temporarily
+It saves the solution (X)
+It saves the input strings
 Don't know
 
 3.
 Question:
+What is a valid solution?
 
 Answer:
+Case #1: SESSD
+Case #1: ESESES (X)
+Case #1: SE ES
 Don't know
 
 
 4.
 Question:
+What does in.close() do?
 
 Answer:
+It closes the scanner (X)
+It closes the reader
+It closes the input
 Don't know

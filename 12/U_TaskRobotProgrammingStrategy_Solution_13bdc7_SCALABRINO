@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the variable isImposible stand for?
 
 Answer:
+It is a flag that marks if a solution can be found or not (X)
+It flags if the next solution should also be calculated
+It shows if a solution has already been seen or not
 Don't know
 
 3.
 Question:
+What does the variable myi mean?
 
 Answer:
+It contains all letters that have already been seen
+It contains all inputs
+It contains the solution of the algorithm (X)
 Don't know
 
 
 4.
 Question:
+What does the method remove() do?
 
 Answer:
+Removes elements of ins where the k-th char is equal to b
+Removes the first element of ins where the char at position 'index' is equal to b
+Removes all elements of ins where the char at position 'index' is equal to b (X)
 Don't know

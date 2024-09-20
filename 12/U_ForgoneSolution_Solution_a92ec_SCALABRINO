@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What is the purpose of variable t?
 
 Answer:
+next test case to print
+Total number of cases (X)
+Current case to work with
 Don't know
 
 3.
 Question:
+What does the a=str.replace('4','3') statement do?
 
 Answer:
+It removes all '4's from the string
+It replaces all occurrences of '4' with '3' in the string(X)
+It replaces all '3's with '4's in the string
 Don't know
 
 
 4.
 Question:
+What is a valid output format that can be printed?
 
 Answer:
+Case #2 : 4 3
+Case #2: 4 3 (X)
+Case # 2 : 4 3
 Don't know
