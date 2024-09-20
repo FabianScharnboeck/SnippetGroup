@@ -10,14 +10,22 @@ No
 
 2.
 Question:
+What does the variable possible stand for?
 
 Answer:
+If the next iteration is possible
+If the progam should stop or not
+If there is a test case that no solution can be found for (X)
 Don't know
 
 3.
 Question:
+What is a valid output format
 
 Answer:
+Case #IMPOSSIBLE
+Case #1: RSD
+Case #1: P (X)
 Don't know
 
 

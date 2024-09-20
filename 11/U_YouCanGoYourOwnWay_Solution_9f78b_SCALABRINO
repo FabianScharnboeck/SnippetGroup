@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does out in findPath() contain?
 
 Answer:
+The output stream
+The solution to print (X)
+The input to convert into a string
 Don't know
 
 3.
 Question:
+What does the variable myX represent in the findPath method?
 
 Answer:
+The current X-coordinate of the user's path (X)
+The difference between the X and Y coordinates
+The X-coordinate that has already been visited
 Don't know
 
 
 4.
 Question:
+What variable contains the path that is calculated?
 
 Answer:
+in
+s
+out (X)
 Don't know

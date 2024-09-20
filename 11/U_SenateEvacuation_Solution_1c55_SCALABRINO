@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the variable senatorCount mean?
 
 Answer:
+Desired number of senators for the solution to be solved
+Number of senators remaining
+Number of senators existing for the current test case (X)
 Don't know
 
 3.
 Question:
+What does the senators array contain?
 
 Answer:
+Position of senators at index i (where i is between 0 and senators.length)
+Number of senators at position i (where i is between 0 and senators.length) (X)
+Sum of sentors salary
 Don't know
 
 
 4.
 Question:
+When is FileNotFoundException thrown?
 
 Answer:
+When System.out inside the InputStreamReader doesn't contain a valid file path
+When the Scanner can't find a file given in System.in (X)
+When the Scanner doesn't have enough senators in in.nextInt()
 Don't know

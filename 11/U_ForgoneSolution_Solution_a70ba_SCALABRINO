@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does caseNumber mean / stand for?
 
 Answer:
+A flag for which case to work on
+The current test case that should be solved (X)
+The next test case
 Don't know
 
 3.
 Question:
+What does the reverseNumberStack variable contain?
 
 Answer:
+the number n in reverse
+the solution
+The digits of n (X)
 Don't know
 
 
 4.
 Question:
+What is reverseNumberStack.length after being filled?
 
 Answer:
+n
+number of digits of n (X)
+number of digits of n % 10
 Don't know
