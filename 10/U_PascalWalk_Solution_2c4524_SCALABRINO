@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does n save?
+
+Answer:
+The next input to use (X)
+The number of inputs to solve
+The number of inputs to print
+Don't know
+
+3.
+Question:
+What is the format of the output?
+
+Answer:
+Case #1: 12 (X)
+Case #1: \n 12
+Case #1 : 1
+Don't know
+
+
+4.
+Question:
+What is the purpose of useSystemIO
+
+Answer:
+If set, it starts the program in debugging mode, meaning it uses static existing files
+If set, it uses the input given by invoking the program with e.g a file location as parameter (X)
+If set, it uses a FileInputStream because only then are files instead of a String as input used
+Don't know

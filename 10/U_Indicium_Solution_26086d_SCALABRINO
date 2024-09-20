@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does issafe(int a[][], int i, int j, int num) do?
+
+Answer:
+Checks if every row and column does not contain the integer num
+Checks if a specific row and column does not contain the number sum (X)
+Checks if row i and column j have the number sum, then issafe is true
+Don't know
+
+3.
+Question:
+When is a a Case "IMPOSSIBLE"?
+
+Answer:
+When method() returns true (X)
+When method() returns false
+When method() returns true and n is not equal to k
+Don't know
+
+
+4.
+Question:
+What does the variable c in main() stand for?
+
+Answer:
+It is the third value read by the scanner, therefore just the third alphabetic value
+It was left for debugging purposes but has no particular meaning
+It is a counter for test cases (X)
+Don't know

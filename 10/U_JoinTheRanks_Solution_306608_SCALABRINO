@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the variable turn mean?
+
+Answer:
+Number of turns left
+Number of current test case (X)
+Number of test cases to handle
+Don't know
+
+3.
+Question:
+What is the solution (for example) dependent on?
+
+Answer:
+On the size of T
+On if n is even or odd (X)
+On if k can be divided by 13
+Don't know
+
+
+4.
+Question:
+What does the input consist of?
+
+Answer:
+A Number of cases to calculate and two numbers (X)
+One number to calculate with and two time stamps
+Three uneven numbers to calculate the solution with
+Don't know
