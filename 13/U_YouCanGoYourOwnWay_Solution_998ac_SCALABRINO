@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the variable "curr" stand for?
 
 Answer:
+Carry
+Current (X)
+Currying
 Don't know
 
 3.
 Question:
+Why is the variable 'add' called as such?
 
-Answer:
+Answer
+Because it is additionally used to print the solution
+Because it adds two strings together
+Because it is a string that is added to the result (X)
 Don't know
 
 
 4.
 Question:
+What could a value of 'total' look like?
 
 Answer:
+Case #1: ESES
+E S E S
+ESESES (X)
 Don't know

@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the function trunc(String line) do?
 
 Answer:
+Returns a substring beginning at the first '0' chararcter
+Returns substring ending at the first non '0' character
+Returns substring beginning from the first non '0' character (X)
 Don't know
 
 3.
 Question:
+What does T represent?
 
 Answer:
+Number of trunctations to do
+Number of lines the program has to handle
+Number of individual test cases the program works on (X)
 Don't know
 
 
 4.
 Question:
+What is a valid output format of the program?
 
 Answer:
+Case #1: 124 (X)
+Case #1 : 01203
+Case # 1: 1242
 Don't know

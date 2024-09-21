@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does disAllow(boolean allow[], ArrayList<Integer> al) do?
 
 Answer:
+Set all values to false in allow[] where al.get(i) is greater than sz
+Set all values to true in the allow array from the indexes 0 to sz.
+Set all values to false in the allow array of the index obtained from the al-array (X)
 Don't know
 
 3.
 Question:
+What does the variable output do?
 
 Answer:
+Act as an Output flag if the output should be printed
+Provide the output string to print
+Act as a flag to mark if a solution is possible or impossible (X)
 Don't know
 
 
 4.
 Question:
+What is the variable flag good for?
 
 Answer:
+Flag to mark if a result is impossible
+Flag to mark when to exit the while loop (X)
+Flag to mark when to append "SPR" to the result string
 Don't know

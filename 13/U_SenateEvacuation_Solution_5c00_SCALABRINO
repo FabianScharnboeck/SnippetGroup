@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the n == 2 block handle?
 
 Answer:
+Cases where the dataStr is equal to "AB"
+Cases where there are two senators in the same party
+Cases where the data array has a size of 2 (X)
 Don't know
 
 3.
 Question:
+What has dataStr to be equal to in order to generate the result "A CC AB AB AB"?
 
 Answer:
+4 3 2 (X)
+2 4 3
+4 2 3
 Don't know
 
 
 4.
 Question:
+What kind of characters does the variable result contain?
 
 Answer:
+1, 2, 3 and 4
+A, B and C (X)
+Case, #, :, and A, B, C
 Don't know
