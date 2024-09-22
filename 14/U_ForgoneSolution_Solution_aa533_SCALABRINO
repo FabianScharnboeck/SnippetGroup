@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the variable testcases stand for?
+
+Answer:
+Current test case number
+Number of correct solutions
+Number of total test cases (X)
+Don't know
+
+3.
+Question:
+What does the variable firstNumber mean?
+
+Answer:
+It is the first number the algorithm has to work on
+It is the first test case
+It is the first number that is used to print the solution (X)
+Don't know
+
+
+4.
+Question:
+What does intArray contain?
+
+Answer:
+The number of digits 'number' contains
+All values of (number / 10)
+All digits of 'number' (X)
+Don't know

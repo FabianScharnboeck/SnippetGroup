@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the method allEvacuated(int[] parties) do?
+
+Answer:
+Checks if any party contains at least one senator
+Checks if all parties have at least one senator left
+Checks if all parties don't have any senators left (X)
+Don't know
+
+3.
+Question:
+What does removeParty(int[] parties, int i) do?
+
+Answer:
+Returns the first two senators of the parties array
+Removes at least two senators at index i
+Removes at least one senator at index i (X)
+Don't know
+
+
+4.
+Question:
+What does indexLarger do in the method removeLargerThanOthers(int[] parties)?
+
+Answer:
+save the index which is larger than parties.length
+save the highest value of the index array 'parties'
+save the index value of where the parties array has the largest value (X)
+Don't know

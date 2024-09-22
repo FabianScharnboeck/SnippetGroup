@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the variable sb contain?
+
+Answer:
+A string containing every move the program could take
+The string containing the remaining steps to do
+The solution to print (X)
+Don't know
+
+3.
+Question:
+What do the variables first and last contain?
+
+Answer:
+The first and last possible test case
+The first and last character of a name provided by moves
+The first and last move provided by the input (X)
+Don't know
+
+
+4.
+Question:
+To which output stream is the result written?
+
+Answer:
+FileOutputStream
+System.out (X)
+System.in
+Don't know

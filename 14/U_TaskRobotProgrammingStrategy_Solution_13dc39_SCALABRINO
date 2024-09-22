@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does computeSol() return?
+
+Answer:
+A String that contains either X's or O's
+A String that contains whether a solution was possible
+A String that contains the computed result (including if it was impossible (X)
+Don't know
+
+3.
+Question:
+What does the variable won mean?
+
+Answer:
+It is a flag indicating whether the program can terminate or not
+It is flag enabling the printing of a solution
+It is a flag indicating whether to add a solution because the round was won (X)
+Don't know
+
+
+4.
+Question:
+What could R S and P stand for?
+
+Answer:
+Right, Predict, Stop
+Rock, Paper, Scissors (X)
+Return, Proceed, Stop
+Don't know
