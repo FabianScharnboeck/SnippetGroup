@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is a possible output?
+
+Answer:
+Case #1: SESE (X)
+Case #1: S E S E
+Case #1:SESE
+Don't know
+
+3.
+Question:
+What is the purpose of n?
+
+Answer:
+Containing the number of S's and E's to be printed
+Number of answers that should be printed
+No particular meaning (X)
+Don't know
+
+
+4.
+Question:
+What does str contain?
+
+Answer:
+A string that contains the solution to print
+A string that, based on its characters, the solution is created with (X)
+A string that is used to determine if the next input should be considered or not
+Don't know

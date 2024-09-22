@@ -1,0 +1,42 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What could r s and p (and the strings "R", "P", "S") stand for?
+
+Answer:
+Right, Predict, Stop
+Rock, Paper, Scissors (X)
+Return, Proceed, Stop
+Don't know
+
+3.
+Question:
+What could the variable 'op' mean?
+
+
+Answer:
+Opponent (X)
+Optimal
+Operation
+Don't know
+
+
+4.
+Question:
+What does the variable 'win' do?
+
+
+Answer:
+Contains whether the program won the game or not
+Contains all characters that are part of a game that is not won by the player
+Contains the answer to be printed (X)
+Don't know

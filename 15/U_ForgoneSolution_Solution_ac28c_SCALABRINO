@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What does the method digits(int n, boolean up) do?
+
+Answer:
+It processes the digits of n from right to left and creates a result from the digits (X)
+It processes the digits of n from left to right and creates a result from the digits
+It processes the number n and shifts it depending on the value of up
+Don't know
+
+3.
+Question:
+What does variable t mean?
+
+Answer:
+Test Case
+Total number of test cases (X)
+Terminate
+Don't know
+
+
+4.
+Question:
+What is a valid output format that is printed?
+
+Answer:
+Case #1: 343 354 (X)
+Case # 1 : 343 354
+Case #2: 364 345
+Don't know

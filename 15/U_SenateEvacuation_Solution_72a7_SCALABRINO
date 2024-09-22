@@ -1,0 +1,40 @@
+1.
+Question:
+Do you think you understand this snippet?
+
+Answer:
+Yes
+No
+
+
+
+2.
+Question:
+What is variable a?
+
+Answer:
+A character containing all numerical and alphabetical characters
+A character containing only characters from A to Z (X)
+A character containing only characters from 0 to 9
+Don't know
+
+3.
+Question:
+What does the upper variable 'total' (not the lower one) contain?
+
+Answer:
+total number of politicians per party
+total number of all politicians (X)
+total number of all parties
+Don't know
+
+
+4.
+Question:
+What is an exemplary result that could be printed by this snippet?
+
+Answer:
+Case #1: AB (X)
+Case #1: 53
+Case #1: A3 B4
+Don't know
