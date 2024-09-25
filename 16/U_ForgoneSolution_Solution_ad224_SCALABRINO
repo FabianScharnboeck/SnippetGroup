@@ -10,19 +10,32 @@ No
 
 2.
 Question:
+What does the variable t represent?
 
 Answer:
+Transform next input
+The total number of test cases (X)
+Next test case to work at
 Don't know
 
 3.
 Question:
+What does the variable cs mean?
 
 Answer:
+current test case (X)
+next case
+case sensitive
 Don't know
 
 
 4.
 Question:
+Consider 'Case #1: [X]', where X is a placeholder. What is the length of X?
 
 Answer:
+a + b
+a.length
+2 * a.length (X)
+
 Don't know

@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the variable 'steps' do?
 
 Answer:
+Save how many steps are left
+Save the steps of the solution (X)
+save the number of steps that are possible
 Don't know
 
 3.
 Question:
+What does the variable 'most' stand for in method add()?
 
 Answer:
+most significant bit
+most likely number to add
+most significant index (X)
 Don't know
 
 
 4.
 Question:
+What does 'N' stand for?
 
 Answer:
+Number of integers to be filled by the nums array (X)
+Number of strings to be used by the nums array
+Number of test cases
 Don't know

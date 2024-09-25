@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What could 'S', 'E' represent?
 
 Answer:
+Path directions (X)
+Path names
+Names of contestants
 Don't know
 
 3.
 Question:
+What does LIMIT stand for?
 
 Answer:
+Limitation to the path direction
+Maximum number of iterations allowed for a solution
+Maximum path length allowed (X)
 Don't know
 
 
 4.
 Question:
+What is a valid output format that could be printed?
 
 Answer:
+Case # 1: ESSESES
+Case #1: ESSSEES (X)
+Case # 1: EESS EESEESE ESESES
 Don't know

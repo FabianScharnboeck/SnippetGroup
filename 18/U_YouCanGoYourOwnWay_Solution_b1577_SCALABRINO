@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the method charCount(String s, char ch) do?
 
 Answer:
+Count how long String s is
+Count number of times String s appears without the character ch
+Count how many times char ch appears in String s (X)
 Don't know
 
 3.
 Question:
+What does run() return?
 
 Answer:
+A Path (X)
+A Name
+A Direction
 Don't know
 
 
 4.
 Question:
+What does the flag PARALLEL do
 
 Answer:
+It prints two solutions in parallel
+It is a flag to avoid concurrency issues
+It tells the program to run in parallel (X)
 Don't know

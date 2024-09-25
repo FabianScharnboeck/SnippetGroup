@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+How long will the program run?
 
 Answer:
+As long as there is no solution found
+As long as the PriorityQueue is not emmpty (X)
+As long as better values are available as solution
 Don't know
 
 3.
 Question:
+What characters will be printed for example?
 
 Answer:
+A,B,C... (X)
+1,2,3...
+a,b,c...
 Don't know
 
 
 4.
 Question:
+What do x and y fields in nds stand for?
 
 Answer:
+number of senators and party name (as a number) (X)
+name of senators and party size
+party size and senator size
 Don't know

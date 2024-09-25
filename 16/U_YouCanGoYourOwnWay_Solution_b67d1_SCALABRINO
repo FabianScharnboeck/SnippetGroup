@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does the readString() method do?
 
 Answer:
+Read characters from integer values
+Read characters until whitespace occurs (X)
+read characters until '\r' occurs
 Don't know
 
 3.
 Question:
+What does testNumber stand for in solve()?
 
 Answer:
+The number of tests available
+The current test number (X)
+Total number of tests
 Don't know
 
 
 4.
 Question:
+How many characters does one solution have?
 
 Answer:
+as many as number 'n' says
+As many as there are test cases
+As many as there are characters in 's' in solve() (X)
 Don't know

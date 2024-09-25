@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does isFound stand for?
 
 Answer:
+Whether the next input was found
+Whether the solution can be found
+Whether a valid solution was found (X)
 Don't know
 
 3.
 Question:
+What digit will the solution never contain?
 
 Answer:
+4 (X)
+n - 1
+1
 Don't know
 
 
 4.
 Question:
+What is a valid solution?
 
 Answer:
+434 325
+321 234
+333 333 (X)
 Don't know

@@ -10,19 +10,30 @@ No
 
 2.
 Question:
+What does isPossible stand for?
 
 Answer:
-Don't know
+Whether the next input was found
+Whether the solution can be found
+Whether a valid solution was found (X)
 
 3.
 Question:
+What could the strings "R", "P", "S" stand for?
 
 Answer:
+Right, Predict, Stop
+Rock, Paper, Scissors (X)
+Return, Proceed, Stop
 Don't know
 
 
 4.
 Question:
+What does 'N' contain?
 
 Answer:
+Number of test cases
+Number of possible solutions
+Number of steps to calculate a solution for (X)
 Don't know

@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What do count and name stand for in the class Party?
 
 Answer:
+Name of the party and number of party members (X)
+Name of the party and number of steps to perform
+Name of party members and number of parties
 Don't know
 
 3.
 Question:
+What will be the party names in this snippet?
 
 Answer:
+1,2,3,...
+a,b,c,...
+A,B,C,... (X)
 Don't know
 
 
 4.
 Question:
+What is printed in the solution?
 
 Answer:
+The order by which the party members leave (X)
+The number of party members left
+The number of party members leaving every step
 Don't know

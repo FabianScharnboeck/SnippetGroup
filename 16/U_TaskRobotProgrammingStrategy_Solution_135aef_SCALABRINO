@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What could r s and p (and the strings "R", "P", "S") stand for?
 
 Answer:
+Right, Predict, Stop
+Rock, Paper, Scissors (X)
+Return, Proceed, Stop
 Don't know
 
 3.
 Question:
+What does 'chosen' save?
 
 Answer:
+The complete result string
+The move that was chosen (X)
+All possible moves
 Don't know
 
 
 4.
 Question:
+What output could be returned by solve()?
 
 Answer:
+IMPOSSIBLE (X)
+RSDPRSPRSSR
+No answer found
 Don't know
