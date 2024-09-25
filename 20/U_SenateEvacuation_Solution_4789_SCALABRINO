@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What do 'num' and 'c' in class Pair  stand for?
 
 Answer:
+Number of senators and Party name (X)
+Name of senators and Party size
+Number of solutions and party name
 Don't know
 
 3.
 Question:
+What is essentially done by the algorithm?
 
 Answer:
+Output is calculated by increasing size of party members
+Pairs.num is reduced until all Pairs are of unequal size
+Pairs.num is reduced step by step and corresponding Pair.c is printed to indicate an order (X)
 Don't know
 
 
 4.
 Question:
+What are valid Pair.c values?
 
 Answer:
+1,2,3...
+A,B,C... (X)
+a,c,b...
 Don't know

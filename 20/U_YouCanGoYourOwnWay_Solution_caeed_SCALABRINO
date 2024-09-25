@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What could "E" and "S" stand for?
 
 Answer:
+Path directions (X)
+Path names
+Names of contestants
 Don't know
 
 3.
 Question:
+What is the purpose of 'grid'?
 
 Answer:
+adjacent matrix representing the range between points
+2d matrix representing an area to find a path in (X)
+2d matrix representing a gameboard
 Don't know
 
 
 4.
 Question:
+How many directions does a path go maximum?
 
 Answer:
+3
+4
+2 (X)
 Don't know

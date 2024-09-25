@@ -9,20 +9,31 @@ No
 
 
 2.
-Question:
+What could the strings "R", "P", "S" stand for?
 
 Answer:
+Right, Predict, Stop
+Rock, Paper, Scissors (X)
+Return, Proceed, Stop
 Don't know
 
 3.
 Question:
+What does it mean when makeMove returns null?
 
 Answer:
+Null is the solution
+Solution takes to long to calculate
+Solution is impossible (X)
 Don't know
 
 
 4.
 Question:
+What is the whole snippet roughly about?
 
 Answer:
+Calculating a path to find the roboters location
+Calculating moves for a roboter to play a game
+Calculating moves against a roboter in a game (X)
 Don't know
