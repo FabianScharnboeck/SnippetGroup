@@ -10,19 +10,31 @@ No
 
 2.
 Question:
+What does test stand for?
 
 Answer:
+Total number of test cases (X)
+Current test case number
+Flag to set if the program should run in test mode
 Don't know
 
 3.
 Question:
+What does 'c' contain?
 
 Answer:
+The number of iterations left
+A Part of the solution (X)
+The temporary sum of solved test cases
 Don't know
 
 
 4.
 Question:
+What is a valid output format for the result?
 
 Answer:
+Case #1: 4 5 (X)
+Case #1: 45
+Case # 2: 2 3
 Don't know

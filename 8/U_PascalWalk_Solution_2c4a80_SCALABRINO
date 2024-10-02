@@ -32,6 +32,10 @@ Don't know
 
 4.
 Question:
+What is true about 'p' in pascal()?
 
 Answer:
+Its diagonal has the values 1 only (X)
+Its sum is always greater than 500
+It uses recursion to calculate the next point
 Don't know
